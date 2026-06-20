@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,month ,year,Customer_Name,City,Category,Product,Sales,Quantity,Profit
+ORD0001,2025-06-05,Jun,2025,Stacey Cook,Lucknow,Furniture,Chair,37923.08,6,-106.1
+ORD0002,2025-02-11,Feb,2025,Richard Barton,Pune,Clothing,Shoes,47187.35,4,1543.97
+ORD0003,2025-03-30,Mar,2025,Johnny Matthews,Hyderabad,Electronics,Headphones,37367.26,6,9060.9
+ORD0004,2025-10-06,Oct,2025,James Gomez,Lucknow,Furniture,Table,33352.21,3,959.5
+ORD0005,2025-05-22,May,2025,Dennis Roberts,Mumbai,Electronics,Headphones,4973.96,3,1316.02
+ORD0006,2025-09-27,Sep,2025,Benjamin Ortiz,Varanasi,Furniture,Table,49234.09,6,9706.75
+ORD0007,2025-06-01,Jun,2025,Kayla Richards,Bangalore,Clothing,T-Shirt,23972.85,3,3186.25
+ORD0008,2025-08-20,Aug,2025,Cody Chapman,Lucknow,Electronics,Smartphone,30514.83,9,7001.91
+ORD0009,2025-07-18,Jul,2025,Francisco Martinez,Varanasi,Furniture,Chair,5030.43,7,-227.58
+ORD0010,2025-02-27,Feb,2025,Jennifer Love,Pune,Office Supplies,Stapler,34995.77,3,828.99
+ORD0011,2025-01-09,Jan,2025,Jasmine Cameron,Hyderabad,Clothing,Jeans,29604.06,6,655.02
+ORD0012,2025-05-20,May,2025,Amber Williams,Pune,Clothing,Jacket,41878.43,4,12237.57
+ORD0013,2025-10-08,Oct,2025,Gina Simpson,Pune,Clothing,Jeans,7670.73,9,1481.41
+ORD0014,2025-02-04,Feb,2025,Nicholas Carey,Lucknow,Clothing,T-Shirt,5491.1,1,23.18
+ORD0015,2025-01-04,Jan,2025,Anthony Boyd,Hyderabad,Furniture,Sofa,3685.89,7,915.83
+ORD0016,2025-09-28,Sep,2025,Dwayne Cunningham,Hyderabad,Furniture,Bed,41732.43,4,-425.32
+ORD0017,2025-04-06,Apr,2025,Brian Vincent,Pune,Furniture,Table,42458.9,1,10508.61
+ORD0018,2025-06-19,Jun,2025,Abigail Baker,Pune,Office Supplies,Marker,42223.89,9,6945
+ORD0019,2025-02-09,Feb,2025,Jennifer Schmidt,Lucknow,Furniture,Bed,9346.34,6,904.3
+ORD0020,2025-11-17,Nov,2025,Chad Pugh,Varanasi,Clothing,T-Shirt,26350.18,2,2770.84
+ORD0021,2025-02-18,Feb,2025,Nicole Campbell,Varanasi,Furniture,Sofa,35248.96,8,4969.41
+ORD0022,2025-11-14,Nov,2025,Mary Hicks,Delhi,Clothing,Jacket,25906.28,5,5657.12
+ORD0023,2025-07-19,Jul,2025,Brian Bell,Lucknow,Clothing,Hoodie,48555.42,6,12982.05
+ORD0024,2025-08-19,Aug,2025,Perry Steele,Delhi,Clothing,Jacket,16433.45,4,2768.89
+ORD0025,2025-06-28,Jun,2025,Deborah Lewis,Hyderabad,Furniture,Table,31344.59,4,8556.88
+ORD0026,2025-08-31,Aug,2025,Dave Johnson,Mumbai,Office Supplies,Printer Paper,2814.06,10,438.69
+ORD0027,2025-01-22,Jan,2025,Sandra Martin,Hyderabad,Clothing,Jacket,41518.39,3,11324.81
+ORD0028,2025-11-16,Nov,2025,Scott Williams,Lucknow,Clothing,Jeans,24974.48,10,2967.64
+ORD0029,2025-08-08,Aug,2025,Elizabeth Holder,Pune,Furniture,Cabinet,11429.12,10,756.11
+ORD0030,2025-01-13,Jan,2025,Jessica Armstrong,Bangalore,Office Supplies,Printer Paper,32538.17,9,3797.97
+ORD0031,2025-09-17,Sep,2025,Robert Harris,Pune,Office Supplies,Stapler,19882.87,6,5610.91
+ORD0032,2025-12-01,Dec,2025,Molly Robinson,Bangalore,Furniture,Sofa,14758.4,3,473.24
+ORD0033,2025-11-24,Nov,2025,Jo Peterson,Lucknow,Furniture,Sofa,27211.53,3,4500.4
+ORD0034,2025-02-11,Feb,2025,Amanda Yu,Lucknow,Furniture,Bed,48693.9,6,-2058.46
+ORD0035,2025-09-27,Sep,2025,Dean Collier,Varanasi,Office Supplies,Notebook,9720.66,9,1211.32
+ORD0036,2025-01-02,Jan,2025,Michele Stephens,Pune,Office Supplies,Notebook,20612.28,10,295.71
+ORD0037,2025-12-27,Dec,2025,Kimberly Hubbard,Varanasi,Clothing,Hoodie,44770.68,1,2973.44
+ORD0038,2025-08-09,Aug,2025,Jennifer Brown,Delhi,Office Supplies,Notebook,4089.19,3,836.25
+ORD0039,2025-05-02,May,2025,Beverly Martinez,Delhi,Furniture,Bed,43272.12,1,5791.44
+ORD0040,2025-04-19,Apr,2025,Kimberly Brown,Lucknow,Electronics,Laptop,23307.22,7,956.5
+ORD0041,2025-06-18,Jun,2025,John Romero,Varanasi,Office Supplies,Stapler,9602.04,5,-357.67
+ORD0042,2025-09-28,Sep,2025,Jessica Gibson,Hyderabad,Furniture,Bed,18408.39,4,4760.52
+ORD0043,2025-07-30,Jul,2025,David Cooke,Bangalore,Clothing,Shoes,29454.68,8,4812.39
+ORD0044,2025-06-14,Jun,2025,Jack Brandt,Varanasi,Furniture,Cabinet,3733.24,3,-157.52
+ORD0045,2025-05-31,May,2025,Luis Murphy,Delhi,Electronics,Keyboard,690.3,8,4.2
+ORD0046,2025-06-06,Jun,2025,Levi Lewis,Delhi,Clothing,Hoodie,22136.05,1,1831.64
+ORD0047,2025-02-20,Feb,2025,Robin Hicks,Lucknow,Office Supplies,Notebook,49224.39,5,-1003.64
+ORD0048,2025-06-29,Jun,2025,Maria Palmer,Pune,Clothing,Jeans,25085.56,7,-147.38
+ORD0049,2025-01-28,Jan,2025,John Dixon,Delhi,Office Supplies,Printer Paper,17046.02,4,148
+ORD0050,2025-05-06,May,2025,Christopher Garcia,Bangalore,Clothing,Hoodie,14029.47,1,244.13
+ORD0051,2025-02-07,Feb,2025,Laura Baker,Pune,Furniture,Cabinet,15465.45,10,2814.35
+ORD0052,2025-05-06,May,2025,Jill Martin,Delhi,Office Supplies,Pen,10963.52,10,-148.54
+ORD0053,2025-04-23,Apr,2025,Sheri Kelly,Pune,Furniture,Table,26154.6,7,-1025.12
+ORD0054,2025-08-14,Aug,2025,David Smith,Pune,Electronics,Laptop,28685.85,4,6993.39
+ORD0055,2025-08-17,Aug,2025,Jessica Wilson,Bangalore,Office Supplies,Pen,17835.71,4,1951.99
+ORD0056,2025-09-11,Sep,2025,Antonio Wells,Lucknow,Clothing,Jeans,6766.87,6,383.76
+ORD0057,2025-07-16,Jul,2025,Philip Mathews,Delhi,Clothing,Jacket,24856.29,8,3243.84
+ORD0058,2025-01-08,Jan,2025,Brian Patrick,Mumbai,Office Supplies,Pen,33677.66,6,2599.47
+ORD0059,2025-10-20,Oct,2025,Lori Hebert,Lucknow,Furniture,Bed,10364.07,10,1656.61
+ORD0060,2025-06-29,Jun,2025,Brittney Wagner,Mumbai,Clothing,Jeans,19523.79,1,5654.11
+ORD0061,2025-05-31,May,2025,Justin Miller,Pune,Furniture,Chair,33810.04,4,10041.39
+ORD0062,2025-03-25,Mar,2025,Krista Davis,Lucknow,Clothing,Jeans,33017.07,9,-1264.88
+ORD0063,2025-03-29,Mar,2025,Thomas Wolf,Bangalore,Electronics,Smartphone,37423.54,10,2893.39
+ORD0064,2025-01-19,Jan,2025,Richard Mclaughlin,Bangalore,Clothing,Shoes,34086.71,7,2463.83
+ORD0065,2025-02-01,Feb,2025,Jessica Gibbs,Pune,Office Supplies,Pen,28541.56,5,3818.11
+ORD0066,2025-07-17,Jul,2025,Mary Cross,Pune,Office Supplies,Notebook,11134.31,6,2957.9
+ORD0067,2025-03-26,Mar,2025,Thomas Dougherty,Varanasi,Office Supplies,Pen,49210.64,1,-460.83
+ORD0068,2025-07-18,Jul,2025,Sean Hester,Mumbai,Office Supplies,Marker,7981.93,9,218.02
+ORD0069,2025-05-28,May,2025,Joshua Zimmerman,Lucknow,Electronics,Laptop,11786.08,10,1299.39
+ORD0070,2025-03-31,Mar,2025,Jennifer Clark,Pune,Clothing,Hoodie,22564.4,9,4937.15
+ORD0071,2025-08-31,Aug,2025,Gary Perry,Mumbai,Office Supplies,Marker,20024.56,4,4146.61
+ORD0072,2025-03-30,Mar,2025,Amy Hutchinson,Bangalore,Clothing,Shoes,4541.66,10,588.29
+ORD0073,2025-08-06,Aug,2025,Jeffrey Mcdonald,Lucknow,Clothing,T-Shirt,39521.81,4,4447.55
+ORD0074,2025-11-05,Nov,2025,Amy Rich,Mumbai,Furniture,Cabinet,38867.56,2,6395.59
+ORD0075,2025-07-05,Jul,2025,Ricardo Anderson,Pune,Office Supplies,Notebook,15732.71,5,1313.42
+ORD0076,2025-01-15,Jan,2025,Jonathan Russo,Mumbai,Clothing,Hoodie,36917.96,7,1976.95
+ORD0077,2025-10-04,Oct,2025,James Allen Jr.,Hyderabad,Furniture,Table,26959.11,2,5589.63
+ORD0078,2025-11-23,Nov,2025,Joe Mccarthy,Mumbai,Office Supplies,Marker,5618.58,5,1679.88
+ORD0079,2025-11-18,Nov,2025,Maria Horne,Lucknow,Clothing,Shoes,1927.12,7,231.29
+ORD0080,2025-03-06,Mar,2025,Steven Roman,Mumbai,Furniture,Chair,46277.76,4,3197.52
+ORD0081,2025-02-20,Feb,2025,Leslie Foster,Pune,Furniture,Cabinet,4486.07,7,428.99
+ORD0082,2025-09-17,Sep,2025,Darius Hill,Bangalore,Clothing,Jeans,38042.57,2,3210.76
+ORD0083,2025-09-01,Sep,2025,Matthew Poole,Pune,Furniture,Cabinet,38697.23,8,7041.02
+ORD0084,2025-10-09,Oct,2025,Susan White,Delhi,Office Supplies,Notebook,46106.04,9,-1509.35
+ORD0085,2025-04-29,Apr,2025,Judith Davis,Delhi,Clothing,Jeans,42954.27,3,-1018.18
+ORD0086,2025-11-01,Nov,2025,Christian Lee,Varanasi,Clothing,Shoes,42549.88,6,8878.33
+ORD0087,2025-10-17,Oct,2025,Daniel Lopez,Bangalore,Clothing,Jeans,28531.11,8,5409.1
+ORD0088,2025-03-25,Mar,2025,Timothy Clark,Mumbai,Clothing,Hoodie,18058.59,4,-52.39
+ORD0089,2025-05-22,May,2025,Jacob Atkins,Varanasi,Office Supplies,Printer Paper,40748.58,7,6558.37
+ORD0090,2025-02-08,Feb,2025,Ann Dixon,Varanasi,Clothing,Hoodie,22683.37,2,-666.66
+ORD0091,2025-12-23,Dec,2025,Megan Farmer,Hyderabad,Office Supplies,Pen,21541.44,6,2376.47
+ORD0092,2025-10-02,Oct,2025,Nicholas Russell,Hyderabad,Office Supplies,Pen,25748.67,10,1841.95
+ORD0093,2025-04-25,Apr,2025,Kenneth Fleming,Mumbai,Electronics,Headphones,49619.96,3,13169.17
+ORD0094,2025-11-30,Nov,2025,Mr. Kevin Lindsey,Bangalore,Office Supplies,Stapler,30759.39,2,3581.17
+ORD0095,2025-02-07,Feb,2025,David Chandler,Lucknow,Office Supplies,Notebook,10006.65,3,223.31
+ORD0096,2025-11-28,Nov,2025,Amanda Blanchard,Delhi,Electronics,Headphones,19980.34,1,3640.19
+ORD0097,2025-05-10,May,2025,Joseph Kelly,Varanasi,Office Supplies,Printer Paper,28674.1,3,2.24
+ORD0098,2025-07-13,Jul,2025,Susan Vincent,Mumbai,Office Supplies,Printer Paper,27129.64,2,1714.65
+ORD0099,2025-08-07,Aug,2025,Joseph Floyd,Pune,Clothing,T-Shirt,7908.33,10,-310.14
+ORD0100,2025-11-25,Nov,2025,Mary Baldwin,Varanasi,Office Supplies,Pen,18071.67,7,3306.85
+ORD0101,2025-05-16,May,2025,Karen Gonzalez,Mumbai,Furniture,Chair,32593.61,6,-1545.76
+ORD0102,2025-07-27,Jul,2025,Mark Horn,Hyderabad,Office Supplies,Stapler,25743.09,10,771.07
+ORD0103,2025-12-01,Dec,2025,Shawn Douglas,Delhi,Electronics,Keyboard,11540.43,1,1752.63
+ORD0104,2025-10-28,Oct,2025,Kelly Kelly MD,Varanasi,Furniture,Chair,49672.02,8,4059.47
+ORD0105,2025-05-23,May,2025,Travis Armstrong,Varanasi,Clothing,T-Shirt,43877.47,6,2572.2
+ORD0106,2025-03-13,Mar,2025,Vincent Smith,Delhi,Electronics,Laptop,42000.51,6,9732.22
+ORD0107,2025-06-05,Jun,2025,Garrett English,Delhi,Electronics,Smartphone,39072.95,5,597.62
+ORD0108,2025-08-17,Aug,2025,Rebecca Walls,Pune,Furniture,Sofa,25904.12,6,6962.93
+ORD0109,2025-04-14,Apr,2025,Deborah Sellers,Lucknow,Clothing,Jacket,13102.17,6,2644.73
+ORD0110,2025-03-27,Mar,2025,Xavier Nelson,Lucknow,Clothing,Shoes,9153.79,7,824.95
+ORD0111,2025-04-11,Apr,2025,Tonya Walker,Mumbai,Office Supplies,Stapler,7925.55,10,-49.17
+ORD0112,2025-08-03,Aug,2025,Christopher Short,Delhi,Furniture,Table,36808.49,1,4749.69
+ORD0113,2025-03-27,Mar,2025,Michelle Green,Pune,Electronics,Smartphone,19509.52,8,1391.7
+ORD0114,2025-12-19,Dec,2025,Nathan Higgins,Varanasi,Electronics,Headphones,39167.53,9,184.92
+ORD0115,2025-03-26,Mar,2025,Deanna Gilbert,Mumbai,Electronics,Monitor,26714.76,5,5166.43
+ORD0116,2025-04-17,Apr,2025,Jennifer Ramirez DVM,Lucknow,Furniture,Bed,20249.99,8,5354.63
+ORD0117,2025-11-24,Nov,2025,Christopher Burke,Lucknow,Clothing,Jeans,24628.04,2,4234.99
+ORD0118,2025-06-03,Jun,2025,Amy Dean,Mumbai,Electronics,Headphones,45864.69,9,10025.81
+ORD0119,2025-10-16,Oct,2025,Brittany White,Delhi,Furniture,Bed,37335.62,2,841.78
+ORD0120,2025-09-14,Sep,2025,Edward Swanson,Mumbai,Clothing,Jeans,9096.54,8,922.01
+ORD0121,2025-12-09,Dec,2025,Leslie Gray,Mumbai,Office Supplies,Notebook,46373.21,1,6101.86
+ORD0122,2025-05-22,May,2025,Courtney Nolan,Delhi,Furniture,Cabinet,5052.47,9,1293.26
+ORD0123,2025-09-23,Sep,2025,Megan Rogers,Varanasi,Office Supplies,Stapler,1514.99,4,242.32
+ORD0124,2025-09-10,Sep,2025,Dawn Shepard,Hyderabad,Clothing,T-Shirt,49299.34,1,3438.84
+ORD0125,2025-08-17,Aug,2025,Alexander Mccarthy,Pune,Office Supplies,Pen,49083.67,4,2282.23
+ORD0126,2025-01-01,Jan,2025,Joe Smith,Bangalore,Office Supplies,Pen,32234.16,9,3061
+ORD0127,2025-12-28,Dec,2025,Michael Larson,Varanasi,Electronics,Laptop,33861.63,7,2155.25
+ORD0128,2025-02-19,Feb,2025,Richard Bradshaw,Delhi,Office Supplies,Marker,17877.26,9,2244.6
+ORD0129,2025-05-28,May,2025,Victor Peterson,Mumbai,Clothing,Hoodie,25405.58,2,1692.18
+ORD0130,2025-03-21,Mar,2025,Emily Sexton,Lucknow,Electronics,Keyboard,14280.85,4,3688.54
+ORD0131,2025-06-13,Jun,2025,Janice Murray,Lucknow,Clothing,Jeans,23032.32,10,2734.5
+ORD0132,2025-10-22,Oct,2025,Mrs. Misty White MD,Delhi,Furniture,Table,15856.54,4,4100.6
+ORD0133,2025-07-21,Jul,2025,Brittany Marshall,Pune,Electronics,Headphones,8886.99,8,-310.15
+ORD0134,2025-07-15,Jul,2025,Nicholas Jones,Hyderabad,Clothing,Jacket,35310.08,9,9047.2
+ORD0135,2025-08-19,Aug,2025,Terri Cruz,Lucknow,Clothing,Jacket,5374.88,10,-136.21
+ORD0136,2025-12-12,Dec,2025,Samuel Compton,Lucknow,Office Supplies,Notebook,1914.38,10,291.43
+ORD0137,2025-08-22,Aug,2025,Colleen Rodriguez,Pune,Office Supplies,Stapler,44517.83,5,4339.82
+ORD0138,2025-12-31,Dec,2025,John Chandler,Varanasi,Furniture,Cabinet,23240.45,6,5006.5
+ORD0139,2025-02-13,Feb,2025,Kayla Sanchez,Hyderabad,Office Supplies,Marker,18380.22,7,1974.27
+ORD0140,2025-12-07,Dec,2025,Jaime Bond,Bangalore,Office Supplies,Notebook,47611.94,5,0.41
+ORD0141,2025-05-26,May,2025,Krista Garcia,Delhi,Office Supplies,Stapler,14448.96,4,4210.37
+ORD0142,2025-01-26,Jan,2025,Samuel Brown,Hyderabad,Electronics,Keyboard,15604.38,1,2614.57
+ORD0143,2025-01-17,Jan,2025,Ashley Villanueva,Varanasi,Office Supplies,Printer Paper,13066.19,4,568.71
+ORD0144,2025-10-28,Oct,2025,Stephen Fowler,Pune,Office Supplies,Pen,17827.81,8,3663.81
+ORD0145,2025-02-07,Feb,2025,Kyle Martinez,Varanasi,Furniture,Sofa,20197.45,10,605.32
+ORD0146,2025-09-06,Sep,2025,Cindy Barnes,Hyderabad,Electronics,Laptop,14037.74,5,719.6
+ORD0147,2025-08-19,Aug,2025,Karen Wood,Varanasi,Office Supplies,Stapler,8315.05,9,1166.89
+ORD0148,2025-05-30,May,2025,Holly Jenkins,Lucknow,Electronics,Monitor,45153.74,5,3013.06
+ORD0149,2025-02-27,Feb,2025,Amy Rose,Hyderabad,Furniture,Table,38584.71,5,7925.83
+ORD0150,2025-12-27,Dec,2025,Lisa Moran,Hyderabad,Furniture,Table,30390.08,5,3691.91
+ORD0151,2025-01-04,Jan,2025,Joseph Berry,Bangalore,Electronics,Keyboard,47171.99,4,12344.53
+ORD0152,2025-11-18,Nov,2025,Jo Davis,Hyderabad,Office Supplies,Notebook,37423.28,3,290.87
+ORD0153,2025-02-27,Feb,2025,Lisa Nelson,Lucknow,Furniture,Chair,9994.22,9,685.21
+ORD0154,2025-09-01,Sep,2025,Cheryl Carter,Hyderabad,Furniture,Cabinet,27971.65,7,321.98
+ORD0155,2025-12-31,Dec,2025,Kenneth Burch,Mumbai,Electronics,Monitor,24029.15,5,4628.93
+ORD0156,2025-07-03,Jul,2025,Kimberly Smith,Bangalore,Furniture,Chair,28570.5,6,3391.44
+ORD0157,2025-03-18,Mar,2025,Virginia Frey,Bangalore,Furniture,Table,44964.13,2,10718.88
+ORD0158,2025-10-18,Oct,2025,Jeffrey Lopez,Lucknow,Clothing,Shoes,46368.65,5,6532.36
+ORD0159,2025-08-12,Aug,2025,Jason Goodman,Delhi,Office Supplies,Printer Paper,13690.09,3,2281.7
+ORD0160,2025-12-28,Dec,2025,Thomas James,Hyderabad,Furniture,Cabinet,47831.61,3,-2139.82
+ORD0161,2025-02-02,Feb,2025,Carolyn Fisher,Hyderabad,Office Supplies,Printer Paper,28535.37,1,1189.03
+ORD0162,2025-02-23,Feb,2025,Anthony Gibson,Lucknow,Furniture,Sofa,1322.09,2,-48.84
+ORD0163,2025-07-14,Jul,2025,James Collier,Mumbai,Clothing,Hoodie,37729.38,8,1168.12
+ORD0164,2025-12-25,Dec,2025,Timothy Scott,Bangalore,Office Supplies,Printer Paper,47084.8,7,13028.08
+ORD0165,2025-10-30,Oct,2025,Kevin Patterson,Hyderabad,Furniture,Cabinet,14183.66,6,1059.14
+ORD0166,2025-07-23,Jul,2025,Margaret Curtis,Pune,Clothing,T-Shirt,21499.77,10,223.64
+ORD0167,2025-11-19,Nov,2025,Melissa Davis,Varanasi,Electronics,Headphones,30754.51,5,7230.82
+ORD0168,2025-04-10,Apr,2025,Ryan Merritt,Pune,Furniture,Cabinet,19224.05,5,4303.75
+ORD0169,2025-12-08,Dec,2025,Morgan Myers,Pune,Electronics,Laptop,1534.16,7,433.29
+ORD0170,2025-01-20,Jan,2025,Kelly Rogers,Delhi,Furniture,Bed,30432.62,3,1125.9
+ORD0171,2025-12-01,Dec,2025,Susan Austin,Delhi,Clothing,Shoes,6237.04,8,117.46
+ORD0172,2025-11-25,Nov,2025,Jesse Ellis,Delhi,Electronics,Smartphone,20928.68,4,6244.46
+ORD0173,2025-12-30,Dec,2025,Leslie Bright,Varanasi,Office Supplies,Pen,28762.39,8,611.84
+ORD0174,2025-01-07,Jan,2025,Karen Gutierrez,Mumbai,Clothing,T-Shirt,40617.86,9,10402.34
+ORD0175,2025-06-07,Jun,2025,Jacob Gutierrez,Delhi,Clothing,Hoodie,36185.49,1,2378.44
+ORD0176,2025-05-27,May,2025,Andrew Johnson,Hyderabad,Office Supplies,Printer Paper,10844.71,6,765.86
+ORD0177,2025-08-02,Aug,2025,Joel Roy,Hyderabad,Electronics,Monitor,16153.6,1,4411.16
+ORD0178,2025-04-15,Apr,2025,Gabriel Garrett,Hyderabad,Furniture,Table,34731.65,9,3332.66
+ORD0179,2025-03-08,Mar,2025,Monica Bowman,Mumbai,Electronics,Headphones,13006.35,4,-95.66
+ORD0180,2025-08-27,Aug,2025,Sarah Jackson,Bangalore,Office Supplies,Marker,35632.56,4,-179.68
+ORD0181,2025-06-20,Jun,2025,Robert Henderson,Bangalore,Electronics,Keyboard,39161.48,7,6182.63
+ORD0182,2025-12-07,Dec,2025,Joshua Chandler,Varanasi,Clothing,Jacket,42853.93,4,3119.84
+ORD0183,2025-12-28,Dec,2025,Alyssa Moore,Pune,Clothing,Hoodie,47221.42,3,-1267.95
+ORD0184,2025-07-09,Jul,2025,Traci Black,Delhi,Furniture,Table,20354.57,4,3340.24
+ORD0185,2025-12-08,Dec,2025,Matthew Allen,Bangalore,Electronics,Keyboard,1432.8,10,180.19
+ORD0186,2025-07-06,Jul,2025,Dustin Dixon,Bangalore,Office Supplies,Pen,46639.78,4,9435.02
+ORD0187,2025-08-03,Aug,2025,Leah Perez,Bangalore,Office Supplies,Marker,5200.41,4,1387.31
+ORD0188,2025-06-05,Jun,2025,Michael Lawson,Varanasi,Clothing,Shoes,33705.32,9,8130.76
+ORD0189,2025-10-11,Oct,2025,John Hanson,Bangalore,Office Supplies,Printer Paper,42637.44,7,8249.74
+ORD0190,2025-12-03,Dec,2025,Karen Page,Pune,Electronics,Laptop,3522.48,5,-15.32
+ORD0191,2025-11-27,Nov,2025,Jonathan Larson,Lucknow,Clothing,T-Shirt,2667.44,1,670.38
+ORD0192,2025-03-03,Mar,2025,Keith Martinez,Pune,Clothing,Hoodie,4474.74,10,1166.28
+ORD0193,2025-09-11,Sep,2025,Kimberly Thompson,Lucknow,Electronics,Monitor,8718.27,10,2369.66
+ORD0194,2025-09-23,Sep,2025,Donald Newman,Mumbai,Clothing,Jacket,47925.48,2,12643.89
+ORD0195,2025-07-06,Jul,2025,Laura Hunt,Bangalore,Office Supplies,Printer Paper,17612.83,6,-132.71
+ORD0196,2025-06-23,Jun,2025,Rodney Graham,Hyderabad,Electronics,Smartphone,11205.87,8,2511.58
+ORD0197,2025-02-11,Feb,2025,Ashley Lucas,Lucknow,Electronics,Keyboard,30127.07,1,3153.85
+ORD0198,2025-01-18,Jan,2025,Sara Dean,Mumbai,Clothing,Hoodie,31311.55,1,4474.85
+ORD0199,2025-01-16,Jan,2025,Craig Bailey,Varanasi,Electronics,Smartphone,42525.19,10,11257.43
+ORD0200,2025-04-28,Apr,2025,Tony West,Bangalore,Electronics,Smartphone,35262.6,4,6131.61
+ORD0201,2025-03-19,Mar,2025,Makayla Chen,Delhi,Furniture,Table,47370.24,7,463.41
+ORD0202,2025-06-28,Jun,2025,Rebecca Golden,Varanasi,Office Supplies,Marker,12785.32,6,2664.91
+ORD0203,2025-12-21,Dec,2025,Ashley Rivera,Delhi,Furniture,Cabinet,4754.76,2,928
+ORD0204,2025-10-12,Oct,2025,Raymond Perez,Pune,Furniture,Chair,16603.35,8,4316.91
+ORD0205,2025-09-14,Sep,2025,Jennifer Sanford,Pune,Office Supplies,Marker,47045.88,1,5902.9
+ORD0206,2025-01-28,Jan,2025,Matthew Reese,Mumbai,Furniture,Table,13162.48,4,3293.38
+ORD0207,2025-08-29,Aug,2025,Renee Mathis,Lucknow,Office Supplies,Printer Paper,40801.6,4,8239.32
+ORD0208,2025-05-01,May,2025,Johnathan Brady,Varanasi,Office Supplies,Stapler,13734.3,10,3735.83
+ORD0209,2025-03-02,Mar,2025,Kyle Miller,Delhi,Electronics,Smartphone,26708.53,1,-1287.75
+ORD0210,2025-12-19,Dec,2025,Jonathon Roman,Lucknow,Office Supplies,Stapler,3639.24,6,479.48
+ORD0211,2025-11-10,Nov,2025,Amber Ruiz,Lucknow,Furniture,Sofa,44445.44,5,13161.37
+ORD0212,2025-05-22,May,2025,Erika English,Bangalore,Clothing,Jacket,45945.21,3,-1205.97
+ORD0213,2025-07-04,Jul,2025,Tina Clarke,Bangalore,Office Supplies,Stapler,28404.96,9,2575.28
+ORD0214,2025-02-25,Feb,2025,Tina Harvey,Delhi,Electronics,Headphones,35241.49,1,3049.39
+ORD0215,2025-11-30,Nov,2025,Jessica Goodman,Mumbai,Office Supplies,Stapler,37701.05,3,9725
+ORD0216,2025-07-03,Jul,2025,Kelly Wilson,Varanasi,Office Supplies,Printer Paper,14892.9,10,1950.82
+ORD0217,2025-02-01,Feb,2025,David Cline MD,Hyderabad,Furniture,Chair,38973.76,4,4258.54
+ORD0218,2025-09-17,Sep,2025,Brenda Gutierrez,Mumbai,Electronics,Headphones,39239.58,7,1132.11
+ORD0219,2025-10-30,Oct,2025,Joe Macdonald,Lucknow,Clothing,Jacket,45400.73,2,-1263.65
+ORD0220,2025-10-24,Oct,2025,Sandra Snyder,Bangalore,Office Supplies,Stapler,2183.95,7,-65.98
+ORD0221,2025-12-22,Dec,2025,William Sanchez,Lucknow,Clothing,Jeans,37759.21,8,4006.84
+ORD0222,2025-06-06,Jun,2025,Madeline Webb,Bangalore,Electronics,Keyboard,27604.28,1,370.59
+ORD0223,2025-01-12,Jan,2025,Ryan Adams,Lucknow,Furniture,Bed,25178.45,5,-756.14
+ORD0224,2025-07-22,Jul,2025,Andrea Alvarado,Pune,Office Supplies,Pen,26479.34,10,4287.14
+ORD0225,2025-01-14,Jan,2025,Rachael Fleming,Mumbai,Electronics,Headphones,12261,10,2546.26
+ORD0226,2025-10-16,Oct,2025,Bethany Dillon,Varanasi,Office Supplies,Notebook,33920.37,10,479.66
+ORD0227,2025-03-22,Mar,2025,Mr. David Lopez DVM,Varanasi,Furniture,Sofa,46764.16,2,7835.57
+ORD0228,2025-08-05,Aug,2025,Marcia Burke,Pune,Clothing,Jeans,2710.22,2,38
+ORD0229,2025-08-12,Aug,2025,Jason White,Lucknow,Office Supplies,Pen,705.6,2,144.94
+ORD0230,2025-03-25,Mar,2025,Shannon West,Bangalore,Furniture,Chair,30224.16,6,6296.39
+ORD0231,2025-10-01,Oct,2025,Brandy Bailey,Pune,Electronics,Monitor,34390.22,2,6881.13
+ORD0232,2025-05-07,May,2025,Alexa Blake,Bangalore,Furniture,Bed,3501.77,8,562.38
+ORD0233,2025-10-10,Oct,2025,Christopher Williams,Lucknow,Clothing,Jacket,4332.83,10,1170.15
+ORD0234,2025-11-09,Nov,2025,Tara Duke,Bangalore,Electronics,Laptop,15756.96,9,616.42
+ORD0235,2025-12-06,Dec,2025,Steve Huffman,Lucknow,Furniture,Chair,7541.81,9,1784.8
+ORD0236,2025-08-01,Aug,2025,Michelle Graham,Hyderabad,Furniture,Chair,34997.02,10,7290.21
+ORD0237,2025-05-06,May,2025,Martin Gray,Lucknow,Electronics,Smartphone,15564.44,8,182.21
+ORD0238,2025-09-07,Sep,2025,Thomas Bruce,Bangalore,Furniture,Table,41449.22,9,10781.88
+ORD0239,2025-01-24,Jan,2025,Jenna Lucas,Bangalore,Furniture,Cabinet,37203.17,2,8772.79
+ORD0240,2025-09-12,Sep,2025,Russell Pena,Varanasi,Clothing,Shoes,6808.28,8,1891.31
+ORD0241,2025-04-11,Apr,2025,Ann Francis,Hyderabad,Office Supplies,Pen,40382.96,5,6900.97
+ORD0242,2025-09-19,Sep,2025,Janet Rivera,Delhi,Furniture,Chair,40410.83,4,9920.51
+ORD0243,2025-07-04,Jul,2025,Mary Burch,Mumbai,Electronics,Headphones,11542.73,3,1885.73
+ORD0244,2025-09-25,Sep,2025,Frank Moore,Pune,Furniture,Bed,8240.25,7,86.78
+ORD0245,2025-02-02,Feb,2025,Justin Livingston,Lucknow,Furniture,Bed,43194.15,2,10711.61
+ORD0246,2025-10-13,Oct,2025,Brandon Gonzalez,Delhi,Furniture,Sofa,13772.52,4,3903.55
+ORD0247,2025-11-24,Nov,2025,Kevin Collier,Delhi,Electronics,Headphones,18871.69,7,4873.56
+ORD0248,2025-07-18,Jul,2025,David Anderson,Mumbai,Electronics,Smartphone,15320.77,9,3330.47
+ORD0249,2025-01-12,Jan,2025,Mary Robinson,Lucknow,Office Supplies,Stapler,3303.76,3,854.65
+ORD0250,2025-05-22,May,2025,Virginia Duffy,Bangalore,Office Supplies,Pen,4169.64,10,866.85
+ORD0251,2025-02-17,Feb,2025,Whitney Delgado,Pune,Furniture,Sofa,40715.73,4,-720.61
+ORD0252,2025-01-22,Jan,2025,Robert Grant,Pune,Office Supplies,Pen,40214.21,4,11708.62
+ORD0253,2025-11-14,Nov,2025,Brian Hernandez,Hyderabad,Furniture,Sofa,43261.08,4,8085.57
+ORD0254,2025-07-16,Jul,2025,Jordan Stewart DVM,Pune,Clothing,Jacket,39170.15,1,4655.03
+ORD0255,2025-01-09,Jan,2025,Donna Pierce,Varanasi,Clothing,T-Shirt,16721.28,9,-788.19
+ORD0256,2025-02-13,Feb,2025,Zachary Lamb,Delhi,Furniture,Table,15304.51,4,-145.31
+ORD0257,2025-04-13,Apr,2025,Brian Rush,Mumbai,Office Supplies,Marker,1100.79,1,181.27
+ORD0258,2025-02-27,Feb,2025,Katie Smith,Delhi,Furniture,Table,33089.38,9,4658.76
+ORD0259,2025-12-09,Dec,2025,Kent Shaw,Bangalore,Office Supplies,Stapler,1472.3,10,290.98
+ORD0260,2025-04-02,Apr,2025,Patricia Williams,Delhi,Electronics,Monitor,36841.22,6,5699.96
+ORD0261,2025-11-04,Nov,2025,Sarah Hoover,Hyderabad,Clothing,Jacket,16462.11,6,2682.02
+ORD0262,2025-01-23,Jan,2025,Debra Pope MD,Pune,Furniture,Bed,42025.4,1,8460.88
+ORD0263,2025-03-01,Mar,2025,Eric Jenkins,Pune,Furniture,Cabinet,41743.68,2,7572.55
+ORD0264,2025-03-05,Mar,2025,Nicholas Cook,Lucknow,Clothing,Jacket,44092.4,6,13024.62
+ORD0265,2025-05-09,May,2025,Kelly White,Delhi,Clothing,Jacket,36014.36,9,8189.47
+ORD0266,2025-04-11,Apr,2025,Tina Murray,Hyderabad,Clothing,Hoodie,38976.46,6,10276.32
+ORD0267,2025-06-05,Jun,2025,Taylor Bailey,Varanasi,Electronics,Headphones,17382.74,4,2520.3
+ORD0268,2025-07-11,Jul,2025,Amanda Wall,Bangalore,Furniture,Cabinet,41633.19,1,9437.51
+ORD0269,2025-11-13,Nov,2025,David Navarro,Hyderabad,Office Supplies,Notebook,38439.56,8,2832.44
+ORD0270,2025-07-04,Jul,2025,Paul Hammond,Lucknow,Furniture,Cabinet,20779.1,10,-207.53
+ORD0271,2025-10-17,Oct,2025,Sandra Perry,Mumbai,Furniture,Bed,21358.2,1,5659.66
+ORD0272,2025-09-02,Sep,2025,Mathew Barber,Mumbai,Clothing,Jeans,37778.1,3,11233.28
+ORD0273,2025-07-03,Jul,2025,Juan Greene,Pune,Office Supplies,Pen,36437.49,6,6825.01
+ORD0274,2025-12-28,Dec,2025,Brandon Kim,Mumbai,Clothing,Hoodie,39182.65,8,7204.91
+ORD0275,2025-04-16,Apr,2025,Lonnie Roberts,Bangalore,Electronics,Headphones,11293.44,9,1043.81
+ORD0276,2025-11-22,Nov,2025,Melissa Serrano,Varanasi,Clothing,Shoes,13000.24,2,1259.55
+ORD0277,2025-05-31,May,2025,Jordan Smith,Lucknow,Clothing,Jeans,17841.51,7,3594.34
+ORD0278,2025-02-01,Feb,2025,Ashley Lang DDS,Lucknow,Clothing,Shoes,47284.38,9,6639.32
+ORD0279,2025-07-09,Jul,2025,Lisa Lindsey,Lucknow,Electronics,Laptop,550.41,6,150.93
+ORD0280,2025-04-14,Apr,2025,Laura Brown,Hyderabad,Furniture,Chair,27067.99,3,7688.64
+ORD0281,2025-01-08,Jan,2025,Keith Johnson,Pune,Electronics,Keyboard,15294.22,4,2450.15
+ORD0282,2025-11-09,Nov,2025,Eric Larson,Delhi,Furniture,Cabinet,22104.37,9,2289.64
+ORD0283,2025-01-22,Jan,2025,Jeffrey Kim,Delhi,Electronics,Smartphone,37587.17,1,2496.68
+ORD0284,2025-08-08,Aug,2025,Lisa Rocha,Bangalore,Furniture,Sofa,921.16,7,184.39
+ORD0285,2025-02-08,Feb,2025,Cesar Smith,Bangalore,Electronics,Smartphone,34759.31,9,6154.57
+ORD0286,2025-06-15,Jun,2025,Linda Taylor,Varanasi,Furniture,Bed,38897.92,9,7924.16
+ORD0287,2025-09-13,Sep,2025,Tracie Howard,Bangalore,Furniture,Sofa,26555.73,6,1609.74
+ORD0288,2025-08-27,Aug,2025,Anita Vega DVM,Pune,Clothing,T-Shirt,28637.08,8,7766.68
+ORD0289,2025-04-12,Apr,2025,Patricia Hays MD,Varanasi,Clothing,T-Shirt,47586.88,5,7382.2
+ORD0290,2025-02-07,Feb,2025,Shaun Williams,Pune,Clothing,Jeans,36749.31,8,5458.95
+ORD0291,2025-12-24,Dec,2025,Crystal Vega,Bangalore,Electronics,Laptop,12069.06,8,2006.96
+ORD0292,2025-11-23,Nov,2025,Nicole Jones,Delhi,Furniture,Sofa,37603.56,8,6054.41
+ORD0293,2025-12-21,Dec,2025,Tiffany Sanchez,Lucknow,Office Supplies,Stapler,9880.11,6,1618.54
+ORD0294,2025-08-02,Aug,2025,Stephanie Faulkner,Hyderabad,Electronics,Monitor,25495.68,3,3409.08
+ORD0295,2025-06-04,Jun,2025,Kelly Day,Lucknow,Clothing,Shoes,16695.01,7,628.6
+ORD0296,2025-08-20,Aug,2025,Bryan Martinez,Lucknow,Electronics,Monitor,12155.61,6,2468.71
+ORD0297,2025-03-17,Mar,2025,Bradley Dorsey,Pune,Clothing,Jacket,16834.14,8,3019.31
+ORD0298,2025-12-25,Dec,2025,Heather Taylor,Delhi,Electronics,Keyboard,22716.91,7,3741.74
+ORD0299,2025-10-18,Oct,2025,Rebekah Turner,Hyderabad,Office Supplies,Stapler,46923.57,3,7479.43
+ORD0300,2025-03-24,Mar,2025,Ashley Odom,Lucknow,Electronics,Headphones,15700.43,2,3947.85
+ORD0301,2025-12-22,Dec,2025,Rhonda Rhodes,Mumbai,Office Supplies,Stapler,47142.51,9,-1922.62
+ORD0302,2025-10-16,Oct,2025,Kelly Kelley,Hyderabad,Electronics,Monitor,16679.1,3,498.58
+ORD0303,2025-11-25,Nov,2025,Paul Stanley,Varanasi,Furniture,Sofa,15626.85,9,2707.39
+ORD0304,2025-05-11,May,2025,Aaron Cunningham,Delhi,Furniture,Chair,31600.43,5,1168.72
+ORD0305,2025-01-27,Jan,2025,Gabrielle Lowe,Bangalore,Furniture,Table,10826.19,8,1644.77
+ORD0306,2025-04-13,Apr,2025,Christopher Rodriguez,Lucknow,Furniture,Cabinet,23749.83,9,6209.77
+ORD0307,2025-03-06,Mar,2025,Jonathan Stevenson,Bangalore,Electronics,Headphones,29667.15,5,7958.05
+ORD0308,2025-03-30,Mar,2025,Shannon Wilkins,Varanasi,Furniture,Sofa,30539.98,3,3413.08
+ORD0309,2025-06-13,Jun,2025,Denise Sanders,Delhi,Clothing,T-Shirt,8766.65,10,-91.08
+ORD0310,2025-12-05,Dec,2025,Maria Zuniga,Pune,Furniture,Table,24955.98,3,4461.62
+ORD0311,2025-07-26,Jul,2025,Carl Medina,Bangalore,Furniture,Chair,29491.88,8,4288.99
+ORD0312,2025-08-19,Aug,2025,Michael Carr,Lucknow,Electronics,Keyboard,38250.8,6,11080
+ORD0313,2025-10-25,Oct,2025,Melissa Hunter,Varanasi,Office Supplies,Stapler,45382.82,9,8618.42
+ORD0314,2025-12-18,Dec,2025,Gabriel Black,Bangalore,Office Supplies,Marker,2724.42,9,363.33
+ORD0315,2025-10-16,Oct,2025,Christopher Mason,Delhi,Furniture,Cabinet,30912.28,3,6120.9
+ORD0316,2025-09-02,Sep,2025,Katherine Cohen,Delhi,Furniture,Bed,39466.64,7,6894.12
+ORD0317,2025-01-12,Jan,2025,Catherine Jennings,Lucknow,Office Supplies,Notebook,18698.3,1,3356.13
+ORD0318,2025-08-08,Aug,2025,Kelly Johnson DDS,Hyderabad,Clothing,Jeans,28343.39,8,8097.05
+ORD0319,2025-01-07,Jan,2025,Jaime Herrera,Hyderabad,Furniture,Chair,7331.36,3,761.14
+ORD0320,2025-12-23,Dec,2025,Erin Garrett,Pune,Furniture,Table,18353.5,6,3784.13
+ORD0321,2025-06-27,Jun,2025,Tammy Lawson,Varanasi,Office Supplies,Stapler,29555.6,6,5152.64
+ORD0322,2025-09-22,Sep,2025,Mark Kelly,Hyderabad,Electronics,Monitor,1869.65,1,28.3
+ORD0323,2025-06-07,Jun,2025,Lisa Simpson,Varanasi,Furniture,Table,38655.06,9,8570.26
+ORD0324,2025-07-03,Jul,2025,Robert Davis,Pune,Office Supplies,Marker,49155.53,2,-1227.73
+ORD0325,2025-02-19,Feb,2025,Mr. Juan Snyder,Lucknow,Furniture,Sofa,19594.14,6,2482.47
+ORD0326,2025-06-25,Jun,2025,David Smith,Varanasi,Furniture,Chair,18110.21,1,3106.01
+ORD0327,2025-09-02,Sep,2025,Matthew Baldwin,Varanasi,Office Supplies,Notebook,9705.04,6,1432.1
+ORD0328,2025-05-30,May,2025,Rebekah King,Delhi,Clothing,T-Shirt,18685.37,3,726.01
+ORD0329,2025-07-25,Jul,2025,Gabrielle Mitchell,Delhi,Office Supplies,Stapler,36113.47,10,10398.42
+ORD0330,2025-08-18,Aug,2025,Bruce Miller,Pune,Clothing,T-Shirt,33709.87,8,5930.31
+ORD0331,2025-04-21,Apr,2025,Karen Cox,Lucknow,Furniture,Sofa,42604.27,7,10157.82
+ORD0332,2025-06-26,Jun,2025,Kimberly Shah,Mumbai,Furniture,Chair,3926.44,3,276.73
+ORD0333,2025-03-01,Mar,2025,Kimberly Johnson,Pune,Office Supplies,Notebook,25503.32,6,7144.22
+ORD0334,2025-09-20,Sep,2025,Nicholas Brown,Pune,Electronics,Monitor,22761.36,4,6222.59
+ORD0335,2025-10-06,Oct,2025,Kaitlyn Smith,Lucknow,Furniture,Bed,25723.1,4,4649.33
+ORD0336,2025-07-22,Jul,2025,Debra Armstrong,Mumbai,Clothing,Hoodie,38234.49,4,5533.81
+ORD0337,2025-03-01,Mar,2025,Michael Long,Mumbai,Electronics,Monitor,14184.39,6,106.04
+ORD0338,2025-12-21,Dec,2025,Eric Villarreal,Pune,Clothing,Jacket,26644.87,4,468.84
+ORD0339,2025-11-02,Nov,2025,James Diaz,Pune,Clothing,Jeans,21430.56,7,5453.35
+ORD0340,2025-09-23,Sep,2025,Penny Love,Hyderabad,Furniture,Cabinet,44571.12,2,9301.2
+ORD0341,2025-06-12,Jun,2025,Kathleen Reynolds,Bangalore,Furniture,Table,30834.19,10,4710.65
+ORD0342,2025-02-20,Feb,2025,Brandi Rosales,Mumbai,Electronics,Smartphone,20684.43,5,-458.96
+ORD0343,2025-03-20,Mar,2025,Christopher Banks,Lucknow,Electronics,Smartphone,27718.57,8,930.22
+ORD0344,2025-12-17,Dec,2025,Ryan Wright,Varanasi,Furniture,Table,4717,10,788.5
+ORD0345,2025-09-03,Sep,2025,Thomas Long,Lucknow,Office Supplies,Pen,9022.13,1,1700.83
+ORD0346,2025-10-23,Oct,2025,William Pena,Bangalore,Electronics,Smartphone,35230.58,3,4124.75
+ORD0347,2025-06-09,Jun,2025,Matthew Weiss,Varanasi,Clothing,Jacket,13211.88,9,1599.56
+ORD0348,2025-02-13,Feb,2025,Sherri Stevenson,Bangalore,Electronics,Monitor,11355.03,3,1776.6
+ORD0349,2025-01-03,Jan,2025,Patrick Robertson,Lucknow,Furniture,Cabinet,14641.46,2,1372.26
+ORD0350,2025-01-29,Jan,2025,Abigail Kerr,Bangalore,Electronics,Laptop,26587.59,1,-1282.65
+ORD0351,2025-12-05,Dec,2025,James Maldonado,Lucknow,Electronics,Monitor,33716.42,2,-221.86
+ORD0352,2025-01-06,Jan,2025,Jason Jenkins,Pune,Office Supplies,Printer Paper,38060.18,3,7801.88
+ORD0353,2025-03-12,Mar,2025,Christopher Garcia,Pune,Furniture,Bed,35828.66,7,10027.23
+ORD0354,2025-12-15,Dec,2025,James Todd,Pune,Furniture,Bed,25783.23,2,2259.65
+ORD0355,2025-12-17,Dec,2025,Sheryl Reeves,Hyderabad,Office Supplies,Notebook,4960.92,6,888.19
+ORD0356,2025-11-11,Nov,2025,Stacy Nelson,Bangalore,Office Supplies,Pen,39450.71,5,2460.69
+ORD0357,2025-09-19,Sep,2025,Wanda Mckenzie,Mumbai,Furniture,Sofa,36397,1,10847.14
+ORD0358,2025-02-08,Feb,2025,Benjamin Wilson,Bangalore,Office Supplies,Stapler,3968.81,10,318.11
+ORD0359,2025-03-07,Mar,2025,Kelly Hooper,Bangalore,Office Supplies,Marker,35648.35,5,9847.84
+ORD0360,2025-09-13,Sep,2025,Luke Lang,Varanasi,Office Supplies,Stapler,37229.39,8,1789.26
+ORD0361,2025-10-30,Oct,2025,Pamela Berry,Lucknow,Furniture,Bed,9042.5,4,-440.3
+ORD0362,2025-04-24,Apr,2025,Michael Mclaughlin,Pune,Clothing,Shoes,44633.52,3,1633.67
+ORD0363,2025-03-29,Mar,2025,Susan Scott,Hyderabad,Office Supplies,Marker,40793.52,2,7045.27
+ORD0364,2025-06-07,Jun,2025,Claire Poole,Hyderabad,Furniture,Sofa,39344.37,10,344.78
+ORD0365,2025-03-24,Mar,2025,Katie Carson,Bangalore,Furniture,Chair,11172.67,3,2037.51
+ORD0366,2025-05-04,May,2025,Erin Robinson,Lucknow,Furniture,Cabinet,15058.37,5,4516.57
+ORD0367,2025-12-07,Dec,2025,Shawn Oliver,Lucknow,Furniture,Sofa,13202.42,2,-283.39
+ORD0368,2025-12-29,Dec,2025,Patrick Gonzalez,Varanasi,Office Supplies,Stapler,3663.19,6,-168.91
+ORD0369,2025-01-05,Jan,2025,Belinda Johnson,Hyderabad,Clothing,Hoodie,22239,3,2578.33
+ORD0370,2025-08-10,Aug,2025,Alexander Thomas,Lucknow,Electronics,Monitor,24274.43,3,3332.54
+ORD0371,2025-06-01,Jun,2025,Austin Stephens,Mumbai,Electronics,Laptop,20946.95,9,4184.3
+ORD0372,2025-07-21,Jul,2025,Derrick Lynch,Pune,Office Supplies,Printer Paper,13731.62,8,1547.82
+ORD0373,2025-05-19,May,2025,Jessica Allen,Mumbai,Clothing,Shoes,13358.18,6,761.85
+ORD0374,2025-09-19,Sep,2025,Melissa Anderson,Bangalore,Furniture,Chair,12525.46,4,171.43
+ORD0375,2025-01-04,Jan,2025,Madison Mejia,Mumbai,Clothing,Hoodie,22818.89,10,-1041.01
+ORD0376,2025-06-14,Jun,2025,Shannon Gregory,Pune,Electronics,Monitor,23822.11,10,2267.5
+ORD0377,2025-01-25,Jan,2025,James Clark,Hyderabad,Office Supplies,Stapler,2994.01,4,487.17
+ORD0378,2025-02-16,Feb,2025,Carolyn Anderson,Hyderabad,Office Supplies,Marker,48694.25,1,1175
+ORD0379,2025-07-18,Jul,2025,Matthew Collins,Hyderabad,Furniture,Chair,2943.92,4,408.2
+ORD0380,2025-08-09,Aug,2025,Caleb Martin,Mumbai,Electronics,Monitor,18421.05,10,2629.73
+ORD0381,2025-06-02,Jun,2025,Jennifer Decker,Mumbai,Electronics,Laptop,24622.29,3,3635.07
+ORD0382,2025-10-19,Oct,2025,Phyllis Riley,Lucknow,Office Supplies,Marker,37567.54,7,3460.44
+ORD0383,2025-05-26,May,2025,Chelsea Reilly,Pune,Furniture,Bed,18549.67,2,-439.49
+ORD0384,2025-01-15,Jan,2025,Joyce Edwards,Bangalore,Clothing,Shoes,22580.48,1,1017.23
+ORD0385,2025-02-17,Feb,2025,Evan Rivera,Pune,Furniture,Chair,36905.86,5,-1621.9
+ORD0386,2025-05-01,May,2025,Kayla White,Bangalore,Furniture,Table,38471.79,2,-88.8
+ORD0387,2025-06-11,Jun,2025,Amy Howell,Mumbai,Electronics,Laptop,33353.56,9,4122.89
+ORD0388,2025-06-29,Jun,2025,Savannah Wright,Pune,Furniture,Table,11486.31,3,1419.27
+ORD0389,2025-07-04,Jul,2025,Tamara Smith,Bangalore,Electronics,Keyboard,45485.49,1,6723.61
+ORD0390,2025-05-03,May,2025,Kathleen Webster,Bangalore,Furniture,Bed,36935.8,1,10542.65
+ORD0391,2025-09-23,Sep,2025,Andrew Dixon PhD,Pune,Clothing,Jacket,28285.41,5,-737.22
+ORD0392,2025-04-19,Apr,2025,Michael Evans,Mumbai,Electronics,Monitor,1732.66,5,477.01
+ORD0393,2025-07-25,Jul,2025,Sharon Murphy,Mumbai,Office Supplies,Notebook,30119.63,8,-425.06
+ORD0394,2025-07-11,Jul,2025,Lisa Curtis,Pune,Furniture,Sofa,7330.82,6,1764.58
+ORD0395,2025-10-19,Oct,2025,Thomas Leach,Pune,Office Supplies,Marker,33618.24,10,-809.74
+ORD0396,2025-07-22,Jul,2025,David Hill,Lucknow,Office Supplies,Stapler,40171.32,2,-1382.43
+ORD0397,2025-09-03,Sep,2025,Bryan Martinez,Pune,Furniture,Bed,6025.74,9,-299.54
+ORD0398,2025-12-13,Dec,2025,Carla Walls,Delhi,Electronics,Monitor,35580.44,6,4932.92
+ORD0399,2025-02-24,Feb,2025,Sara Foley,Varanasi,Office Supplies,Stapler,45971.9,1,5263.02
+ORD0400,2025-03-09,Mar,2025,Christopher Gallagher,Varanasi,Furniture,Sofa,16563.12,4,1705.55
+ORD0401,2025-08-20,Aug,2025,Kyle Baxter,Mumbai,Furniture,Sofa,36641.92,8,6674.41
+ORD0402,2025-12-18,Dec,2025,Andrew Parker,Delhi,Furniture,Cabinet,45263.61,7,-98.29
+ORD0403,2025-10-15,Oct,2025,Pamela Watson,Pune,Clothing,Jeans,3281.69,5,921.59
+ORD0404,2025-08-14,Aug,2025,Zachary Johnson,Lucknow,Furniture,Sofa,33687.18,3,335.26
+ORD0405,2025-11-13,Nov,2025,Valerie Yu,Bangalore,Furniture,Bed,17728.17,4,2666.5
+ORD0406,2025-03-03,Mar,2025,Christopher Ward,Lucknow,Clothing,Hoodie,20729.96,6,2421.59
+ORD0407,2025-12-24,Dec,2025,Sherry Burton,Hyderabad,Clothing,Shoes,26829.67,8,3689.25
+ORD0408,2025-05-15,May,2025,Kathleen Ford,Lucknow,Clothing,Shoes,5822.58,2,664.85
+ORD0409,2025-09-09,Sep,2025,Amanda Peters,Varanasi,Office Supplies,Pen,26950.73,6,1167.31
+ORD0410,2025-09-03,Sep,2025,Christine Wyatt,Bangalore,Furniture,Cabinet,41940.86,10,3777.21
+ORD0411,2025-12-13,Dec,2025,Tonya Holloway,Delhi,Furniture,Bed,11250.53,6,1894.49
+ORD0412,2025-03-12,Mar,2025,Ana Burns,Pune,Office Supplies,Notebook,7736.33,7,-292.26
+ORD0413,2025-05-03,May,2025,Robert Howard,Mumbai,Clothing,Jeans,44365.96,1,8707.08
+ORD0414,2025-01-10,Jan,2025,Gregory Mccarthy,Bangalore,Electronics,Monitor,46644.1,5,8115.69
+ORD0415,2025-02-02,Feb,2025,Mrs. Gabrielle Roberson,Bangalore,Clothing,Jacket,37245.2,2,9744.9
+ORD0416,2025-11-14,Nov,2025,Cynthia Hamilton,Varanasi,Electronics,Keyboard,48300.34,6,2524.65
+ORD0417,2025-10-30,Oct,2025,Sarah Clark,Delhi,Furniture,Cabinet,45981.55,6,2965.16
+ORD0418,2025-03-21,Mar,2025,Mike Foley,Bangalore,Office Supplies,Pen,9161.77,3,760.2
+ORD0419,2025-07-10,Jul,2025,Troy Cain,Hyderabad,Office Supplies,Marker,32772.26,10,3085.77
+ORD0420,2025-08-08,Aug,2025,Yolanda Andrade,Mumbai,Office Supplies,Marker,12739.77,4,394.13
+ORD0421,2025-06-25,Jun,2025,Ryan Keller,Lucknow,Office Supplies,Printer Paper,35075.02,10,3334.86
+ORD0422,2025-06-18,Jun,2025,Kelly Vaughan MD,Bangalore,Electronics,Headphones,25607.91,3,7158.59
+ORD0423,2025-03-08,Mar,2025,William Ellis,Varanasi,Electronics,Laptop,11082.55,2,180.55
+ORD0424,2025-04-12,Apr,2025,Carrie Glover,Varanasi,Furniture,Cabinet,36606.04,1,8241.36
+ORD0425,2025-04-01,Apr,2025,Mr. Paul Johnson,Delhi,Clothing,T-Shirt,7450.2,10,1926.63
+ORD0426,2025-11-05,Nov,2025,Thomas Andrade,Pune,Electronics,Monitor,43330.06,1,11746.77
+ORD0427,2025-07-28,Jul,2025,Bianca Suarez,Pune,Electronics,Keyboard,33870.89,1,2839.08
+ORD0428,2025-10-10,Oct,2025,Ashley Prince,Bangalore,Furniture,Bed,8451.06,5,580.67
+ORD0429,2025-05-14,May,2025,Christopher Murphy,Bangalore,Office Supplies,Marker,18059.43,7,283.57
+ORD0430,2025-05-09,May,2025,Andrew Joyce,Delhi,Office Supplies,Printer Paper,25677.23,10,7693.11
+ORD0431,2025-05-29,May,2025,Todd Smith,Delhi,Office Supplies,Pen,17958.24,5,2724.67
+ORD0432,2025-10-22,Oct,2025,Michelle Parsons,Lucknow,Clothing,Hoodie,28340.6,7,1609.02
+ORD0433,2025-07-25,Jul,2025,Stephanie Williams,Delhi,Electronics,Keyboard,41856.52,1,5347.7
+ORD0434,2025-06-06,Jun,2025,Rebecca Dixon,Lucknow,Electronics,Headphones,31297.22,6,7676.68
+ORD0435,2025-10-22,Oct,2025,Cameron Ramirez,Hyderabad,Office Supplies,Pen,22657.16,8,529.47
+ORD0436,2025-12-07,Dec,2025,Tiffany Jones,Bangalore,Clothing,Hoodie,23794.41,8,2209.98
+ORD0437,2025-10-07,Oct,2025,Rebecca Chavez,Varanasi,Electronics,Headphones,49113.56,10,3013.92
+ORD0438,2025-08-16,Aug,2025,Jose Gillespie,Delhi,Electronics,Monitor,17310.53,1,-809.91
+ORD0439,2025-12-17,Dec,2025,Mariah Owens,Delhi,Clothing,Hoodie,583.43,9,80.29
+ORD0440,2025-05-02,May,2025,Jared Leonard,Pune,Electronics,Laptop,48407.67,8,7107.57
+ORD0441,2025-07-18,Jul,2025,Roger Ford,Pune,Clothing,Jeans,19667.95,4,4824.48
+ORD0442,2025-05-22,May,2025,Kimberly Potter,Bangalore,Clothing,Jeans,15774.73,2,1091.92
+ORD0443,2025-04-27,Apr,2025,Ross Gonzales,Bangalore,Office Supplies,Stapler,1175.92,9,291.24
+ORD0444,2025-03-11,Mar,2025,Christopher Solis,Bangalore,Office Supplies,Notebook,23442.89,6,3395.1
+ORD0445,2025-06-22,Jun,2025,Joshua Mccarty,Varanasi,Furniture,Chair,7081.68,2,239.22
+ORD0446,2025-01-08,Jan,2025,Mark Martin,Mumbai,Electronics,Smartphone,4834.54,9,473.79
+ORD0447,2025-07-31,Jul,2025,James Anderson,Pune,Furniture,Chair,11364.29,8,2967.56
+ORD0448,2025-09-21,Sep,2025,Steven Kirk,Hyderabad,Electronics,Headphones,10239.68,9,-106.29
+ORD0449,2025-12-24,Dec,2025,Chelsey Gates,Varanasi,Electronics,Keyboard,30217.76,3,3172.98
+ORD0450,2025-08-13,Aug,2025,Jacob Pineda,Delhi,Furniture,Bed,3384.03,10,392.36
+ORD0451,2025-05-19,May,2025,Mark Peterson,Hyderabad,Electronics,Headphones,18222.59,9,998.18
+ORD0452,2025-03-13,Mar,2025,Benjamin Caldwell,Hyderabad,Clothing,Hoodie,44138.57,4,10772.63
+ORD0453,2025-03-14,Mar,2025,Jacob West,Varanasi,Furniture,Bed,39816.72,5,239.2
+ORD0454,2025-04-15,Apr,2025,Samuel Martinez,Pune,Clothing,Jacket,13305.12,4,3006.16
+ORD0455,2025-05-27,May,2025,Robert Case,Lucknow,Furniture,Table,1275.99,3,368.17
+ORD0456,2025-05-02,May,2025,Jamie Waters,Pune,Furniture,Cabinet,4453.22,7,411
+ORD0457,2025-06-24,Jun,2025,Devin Stewart,Delhi,Clothing,Shoes,10621.28,10,2876.81
+ORD0458,2025-06-27,Jun,2025,Kylie Miller,Bangalore,Office Supplies,Marker,30977.96,6,4275.34
+ORD0459,2025-12-10,Dec,2025,Joan White,Hyderabad,Furniture,Table,35238.15,3,8495.95
+ORD0460,2025-09-08,Sep,2025,Derek Smith,Varanasi,Electronics,Laptop,34124.9,10,284.54
+ORD0461,2025-04-11,Apr,2025,Stanley Dougherty,Varanasi,Electronics,Monitor,36031.13,5,1012.5
+ORD0462,2025-04-22,Apr,2025,Kristin Rodriguez,Bangalore,Clothing,Shoes,34127.79,6,1975.89
+ORD0463,2025-11-20,Nov,2025,Tyler Walker,Delhi,Electronics,Keyboard,49831.93,5,4754.6
+ORD0464,2025-07-28,Jul,2025,William Garner Jr.,Mumbai,Clothing,Jacket,9338.42,8,912.2
+ORD0465,2025-04-17,Apr,2025,Daniel Alvarez,Pune,Furniture,Bed,24604.99,10,294.14
+ORD0466,2025-04-12,Apr,2025,Kaitlyn Daniels,Delhi,Office Supplies,Pen,42608.55,5,1770.28
+ORD0467,2025-10-10,Oct,2025,Rachel Morse,Hyderabad,Clothing,Jacket,13488.88,8,723.45
+ORD0468,2025-12-21,Dec,2025,Leslie Sutton,Mumbai,Office Supplies,Marker,16882.8,4,1669.02
+ORD0469,2025-06-04,Jun,2025,Shannon Vazquez,Bangalore,Clothing,T-Shirt,49269.12,8,14483.78
+ORD0470,2025-08-29,Aug,2025,Russell Roach,Varanasi,Office Supplies,Pen,6967.8,3,-187.01
+ORD0471,2025-01-10,Jan,2025,Nicole Ingram,Mumbai,Furniture,Chair,32780.46,9,2533.06
+ORD0472,2025-10-18,Oct,2025,April Campbell,Mumbai,Clothing,Shoes,35761.67,6,581.58
+ORD0473,2025-02-14,Feb,2025,Jennifer Edwards,Bangalore,Electronics,Headphones,7438.6,3,1241.03
+ORD0474,2025-09-11,Sep,2025,Curtis Richmond,Hyderabad,Electronics,Keyboard,16884.58,10,97.05
+ORD0475,2025-01-27,Jan,2025,Alicia Fuller,Hyderabad,Clothing,T-Shirt,6868.29,9,1061.71
+ORD0476,2025-12-30,Dec,2025,Kyle Jackson,Delhi,Clothing,T-Shirt,29646.36,3,929.16
+ORD0477,2025-04-09,Apr,2025,Cynthia Wong,Pune,Electronics,Monitor,37035.86,9,-570.98
+ORD0478,2025-06-07,Jun,2025,David Mason,Lucknow,Office Supplies,Notebook,32136.84,6,7801.9
+ORD0479,2025-12-17,Dec,2025,Angela Hall,Mumbai,Office Supplies,Stapler,3171.56,6,203.51
+ORD0480,2025-05-07,May,2025,Kelly Garcia,Pune,Furniture,Cabinet,1460.52,3,264.16
+ORD0481,2025-01-29,Jan,2025,Terry Brewer,Mumbai,Furniture,Cabinet,12840.14,2,3586.05
+ORD0482,2025-06-03,Jun,2025,Karen Clark,Delhi,Office Supplies,Printer Paper,7860.84,2,1126.46
+ORD0483,2025-01-20,Jan,2025,Kelly Turner,Hyderabad,Furniture,Bed,35156.19,9,5355.24
+ORD0484,2025-01-19,Jan,2025,Stacy Winters,Varanasi,Electronics,Laptop,28878.02,1,1753.09
+ORD0485,2025-11-24,Nov,2025,Michael Dickson,Delhi,Furniture,Bed,42535.5,2,-1739.53
+ORD0486,2025-03-17,Mar,2025,Jennifer Russell,Hyderabad,Clothing,T-Shirt,33696.14,9,6279.17
+ORD0487,2025-06-21,Jun,2025,Janet Porter,Delhi,Electronics,Monitor,2067.17,5,378.64
+ORD0488,2025-01-15,Jan,2025,Robert Oneill,Pune,Furniture,Table,15888.49,1,4389.11
+ORD0489,2025-07-09,Jul,2025,Eric Avery,Lucknow,Furniture,Bed,27432.91,5,7619.54
+ORD0490,2025-11-04,Nov,2025,Stephen Parker,Varanasi,Furniture,Bed,20317.31,9,973.16
+ORD0491,2025-11-29,Nov,2025,Stephen Randall,Mumbai,Clothing,T-Shirt,19865.83,7,3451.15
+ORD0492,2025-09-27,Sep,2025,Laura Cain,Hyderabad,Clothing,T-Shirt,9509.8,4,2138.35
+ORD0493,2025-11-24,Nov,2025,Leon Gardner,Bangalore,Office Supplies,Pen,25437.76,9,4079
+ORD0494,2025-01-06,Jan,2025,James Stein,Varanasi,Clothing,T-Shirt,44973.07,10,6337.7
+ORD0495,2025-03-26,Mar,2025,Laura Proctor,Pune,Electronics,Laptop,16862.86,10,1127.35
+ORD0496,2025-11-03,Nov,2025,Stephanie Marsh,Bangalore,Electronics,Headphones,530.83,5,85.78
+ORD0497,2025-09-21,Sep,2025,Justin Anderson,Pune,Clothing,Jeans,30119.95,4,4487.28
+ORD0498,2025-12-04,Dec,2025,Janice Kennedy,Mumbai,Clothing,T-Shirt,9013,5,1709.88
+ORD0499,2025-11-29,Nov,2025,Patricia Yoder,Varanasi,Clothing,Jeans,22725.79,7,1749.65
+ORD0500,2025-03-04,Mar,2025,Jennifer Brown,Varanasi,Clothing,T-Shirt,46392.16,5,-2180.49
+ORD0501,2025-07-05,Jul,2025,Jesse Padilla,Lucknow,Clothing,T-Shirt,10188.58,3,100.23
+ORD0502,2025-10-19,Oct,2025,Ryan Carson Jr.,Mumbai,Electronics,Monitor,34645.9,8,4111.33
+ORD0503,2025-11-25,Nov,2025,Patricia Mccarty,Hyderabad,Furniture,Cabinet,42150.72,3,1653.2
+ORD0504,2025-05-29,May,2025,Sean Cox,Hyderabad,Furniture,Bed,20771.59,5,1521.1
+ORD0505,2025-05-23,May,2025,Victoria Williams,Hyderabad,Office Supplies,Pen,46947.17,5,-1535.7
+ORD0506,2025-11-09,Nov,2025,Kari Torres,Delhi,Furniture,Sofa,4481.88,9,680.66
+ORD0507,2025-06-26,Jun,2025,Jordan Randall,Delhi,Office Supplies,Printer Paper,7144.63,3,1021.05
+ORD0508,2025-01-25,Jan,2025,Erika Rodriguez,Varanasi,Office Supplies,Printer Paper,25447.26,7,1056.01
+ORD0509,2025-02-28,Feb,2025,Joshua Robles,Delhi,Clothing,Jeans,40820.31,2,3795.55
+ORD0510,2025-05-23,May,2025,Rick Gallagher,Pune,Electronics,Headphones,16194.19,4,371.37
+ORD0511,2025-03-30,Mar,2025,Jessica Carter,Hyderabad,Electronics,Laptop,27285.75,5,6575.93
+ORD0512,2025-12-18,Dec,2025,Matthew Miller,Mumbai,Furniture,Sofa,22463.29,2,-936.95
+ORD0513,2025-12-05,Dec,2025,Richard Dennis,Delhi,Furniture,Bed,34849.28,5,3350.15
+ORD0514,2025-04-10,Apr,2025,Nancy Simmons,Pune,Clothing,Shoes,42868.58,9,8609.07
+ORD0515,2025-09-20,Sep,2025,Justin Griffin,Pune,Furniture,Chair,8384.6,9,-47.55
+ORD0516,2025-06-21,Jun,2025,Raymond Schaefer,Bangalore,Clothing,Hoodie,5649.37,5,173.05
+ORD0517,2025-09-04,Sep,2025,Bill Scott,Varanasi,Office Supplies,Marker,21847.28,8,1412.09
+ORD0518,2025-06-14,Jun,2025,Amanda Stevens,Delhi,Furniture,Cabinet,13786.64,5,2263.99
+ORD0519,2025-02-22,Feb,2025,Michael Morales,Mumbai,Furniture,Bed,6854.88,4,1232.71
+ORD0520,2025-04-19,Apr,2025,Robert Parker,Hyderabad,Furniture,Bed,22848.5,6,1741.62
+ORD0521,2025-01-31,Jan,2025,Vanessa Gonzalez,Pune,Clothing,Jeans,22989,9,3563.62
+ORD0522,2025-12-17,Dec,2025,Jeffrey Gomez,Delhi,Furniture,Chair,28981.61,1,8457.33
+ORD0523,2025-06-06,Jun,2025,Sean Padilla,Pune,Clothing,Hoodie,23352.69,2,358.27
+ORD0524,2025-10-05,Oct,2025,Amy Sweeney,Lucknow,Furniture,Sofa,6793.13,7,1437.95
+ORD0525,2025-09-17,Sep,2025,Debbie Castro,Bangalore,Furniture,Table,6265.53,7,1289.62
+ORD0526,2025-06-04,Jun,2025,Richard Conrad,Hyderabad,Furniture,Chair,22486,10,2787.32
+ORD0527,2025-03-09,Mar,2025,Leslie Smith,Bangalore,Clothing,Jacket,26549.36,3,6870.84
+ORD0528,2025-01-26,Jan,2025,John Dawson,Varanasi,Office Supplies,Stapler,12366.96,1,1768.89
+ORD0529,2025-05-05,May,2025,Bryan Davis,Lucknow,Electronics,Monitor,32683.77,1,8806.2
+ORD0530,2025-08-05,Aug,2025,Roger Thompson,Pune,Electronics,Keyboard,47537.73,9,5959.64
+ORD0531,2025-08-11,Aug,2025,Justin Cain,Bangalore,Clothing,Jeans,29442.62,3,-1360.93
+ORD0532,2025-09-02,Sep,2025,Danny Warner,Bangalore,Electronics,Monitor,30221.57,6,4616.82
+ORD0533,2025-06-18,Jun,2025,Elizabeth Carter,Hyderabad,Clothing,Hoodie,31045.09,8,4298.12
+ORD0534,2025-06-29,Jun,2025,Anita Webb,Delhi,Electronics,Keyboard,36239.14,2,2130.82
+ORD0535,2025-12-06,Dec,2025,William Anderson,Lucknow,Clothing,Hoodie,8611.48,3,825.1
+ORD0536,2025-03-16,Mar,2025,James Jones,Lucknow,Office Supplies,Notebook,27581.33,5,414.43
+ORD0537,2025-03-11,Mar,2025,Michael Perez,Lucknow,Furniture,Sofa,18254.08,4,2146.28
+ORD0538,2025-09-01,Sep,2025,Vanessa Benson,Mumbai,Furniture,Cabinet,25786.01,4,2198.95
+ORD0539,2025-02-09,Feb,2025,Tiffany Jimenez,Varanasi,Furniture,Chair,34471.13,3,970.49
+ORD0540,2025-07-15,Jul,2025,Jason Henderson,Lucknow,Electronics,Laptop,36790.97,3,-1041.13
+ORD0541,2025-10-05,Oct,2025,Gloria Ramirez,Hyderabad,Office Supplies,Printer Paper,8490.25,10,525.25
+ORD0542,2025-01-28,Jan,2025,Daniel Skinner,Pune,Furniture,Bed,6486.73,1,99.26
+ORD0543,2025-10-28,Oct,2025,Dawn Mathews,Varanasi,Furniture,Bed,5555.44,5,-196.43
+ORD0544,2025-01-28,Jan,2025,Sandra Ross,Lucknow,Electronics,Monitor,43011.54,10,2980.19
+ORD0545,2025-02-02,Feb,2025,Rebekah Harrington,Lucknow,Electronics,Monitor,10408.07,6,463.17
+ORD0546,2025-05-10,May,2025,Andrew Cross,Bangalore,Clothing,Shoes,21220.82,6,386.15
+ORD0547,2025-08-05,Aug,2025,Michelle Duncan,Lucknow,Electronics,Headphones,26270.68,1,-574.55
+ORD0548,2025-10-11,Oct,2025,Dana Torres,Bangalore,Clothing,Shoes,19042.04,1,1843.47
+ORD0549,2025-05-16,May,2025,Mark Aguirre,Varanasi,Clothing,Shoes,36080.04,5,-260.93
+ORD0550,2025-03-04,Mar,2025,Gail Fletcher,Bangalore,Electronics,Keyboard,18589.97,4,4086.49
+ORD0551,2025-04-05,Apr,2025,Katrina Jones,Lucknow,Clothing,Hoodie,25086.6,4,2136.28
+ORD0552,2025-06-18,Jun,2025,Tara Singh,Pune,Furniture,Sofa,17713,6,2278.26
+ORD0553,2025-12-15,Dec,2025,Jennifer Mendoza,Pune,Electronics,Smartphone,29717.61,7,2941.46
+ORD0554,2025-06-19,Jun,2025,Kelly Buck,Lucknow,Furniture,Chair,7398.58,2,1653.35
+ORD0555,2025-10-17,Oct,2025,Paul Cordova,Bangalore,Clothing,Shoes,11373.31,4,1883.8
+ORD0556,2025-10-29,Oct,2025,Angela Haas,Varanasi,Clothing,Jacket,49168.51,6,4748.33
+ORD0557,2025-04-28,Apr,2025,Jessica Ruiz,Bangalore,Furniture,Sofa,47028.61,4,9343.73
+ORD0558,2025-07-15,Jul,2025,Jane Cohen,Mumbai,Office Supplies,Pen,32178.85,6,8129.8
+ORD0559,2025-07-14,Jul,2025,Lisa Bridges,Hyderabad,Electronics,Smartphone,14184.56,9,637.2
+ORD0560,2025-11-12,Nov,2025,Joel Lambert,Bangalore,Clothing,Jeans,15965.95,8,2953.9
+ORD0561,2025-06-21,Jun,2025,Raymond Murphy,Varanasi,Electronics,Monitor,28570.28,7,4712.43
+ORD0562,2025-01-02,Jan,2025,Joanna Norman,Delhi,Office Supplies,Stapler,14658.04,6,2751.93
+ORD0563,2025-07-15,Jul,2025,Deborah Miller,Delhi,Furniture,Cabinet,11892.49,6,3462.26
+ORD0564,2025-09-27,Sep,2025,George Ellis,Delhi,Electronics,Headphones,12767.31,10,2741.9
+ORD0565,2025-09-19,Sep,2025,Anthony Simon,Hyderabad,Clothing,Hoodie,31309.01,3,4427.76
+ORD0566,2025-09-06,Sep,2025,Eric Torres,Hyderabad,Electronics,Laptop,23596.83,1,492.33
+ORD0567,2025-08-22,Aug,2025,Sandra Simon,Mumbai,Clothing,Shoes,49833.07,7,5477.95
+ORD0568,2025-11-12,Nov,2025,Charles Barnes,Pune,Office Supplies,Marker,10887.79,10,1461.19
+ORD0569,2025-03-09,Mar,2025,Matthew Conley,Delhi,Office Supplies,Stapler,34336.81,5,-1295.82
+ORD0570,2025-09-25,Sep,2025,Sean Meyers,Varanasi,Furniture,Table,34896.59,5,8419.88
+ORD0571,2025-06-07,Jun,2025,Carlos Mendez,Lucknow,Clothing,Shoes,31103.33,8,4748.41
+ORD0572,2025-03-03,Mar,2025,Diana Whitaker,Bangalore,Furniture,Sofa,19222.2,9,3521.3
+ORD0573,2025-09-25,Sep,2025,Connor Lloyd,Mumbai,Furniture,Cabinet,45671.9,9,11099.58
+ORD0574,2025-10-14,Oct,2025,Karen Wade,Hyderabad,Furniture,Bed,3573.94,5,846.52
+ORD0575,2025-12-18,Dec,2025,Andrew Harris,Delhi,Electronics,Laptop,7613.09,2,2098.73
+ORD0576,2025-11-26,Nov,2025,Sarah Patel,Hyderabad,Clothing,Jeans,15781.89,3,413.63
+ORD0577,2025-04-16,Apr,2025,Jamie Hudson,Hyderabad,Furniture,Cabinet,49470.37,4,10729
+ORD0578,2025-09-03,Sep,2025,Tiffany Francis,Lucknow,Office Supplies,Stapler,10097.44,2,3010.08
+ORD0579,2025-01-04,Jan,2025,Crystal Lowe,Pune,Electronics,Keyboard,35967.98,5,-488.53
+ORD0580,2025-01-04,Jan,2025,Chloe Mason,Bangalore,Electronics,Smartphone,22094.04,6,3514.18
+ORD0581,2025-05-28,May,2025,Jennifer Lynn,Bangalore,Furniture,Bed,30267.31,3,3016.9
+ORD0582,2025-07-21,Jul,2025,Troy Jones,Bangalore,Furniture,Bed,16072.83,7,1365.88
+ORD0583,2025-03-31,Mar,2025,Brian Lowery,Mumbai,Clothing,Jacket,35147.69,3,9821.39
+ORD0584,2025-10-14,Oct,2025,Fernando Logan,Varanasi,Furniture,Table,44540.35,10,-48.14
+ORD0585,2025-01-13,Jan,2025,Denise Sanchez,Bangalore,Furniture,Chair,2028.88,10,186.12
+ORD0586,2025-04-18,Apr,2025,David Anderson,Mumbai,Clothing,Shoes,14619.82,9,2970.38
+ORD0587,2025-02-09,Feb,2025,Amy Morales,Pune,Electronics,Keyboard,33745.58,6,-1269.23
+ORD0588,2025-03-03,Mar,2025,Michael Clark,Lucknow,Furniture,Sofa,48619.4,9,2195.55
+ORD0589,2025-07-22,Jul,2025,James Hess,Pune,Clothing,Jacket,19139.86,4,1926.38
+ORD0590,2025-11-26,Nov,2025,Deborah Jones,Bangalore,Furniture,Sofa,28423,2,5737.34
+ORD0591,2025-07-18,Jul,2025,Christian Romero,Delhi,Electronics,Smartphone,28508.56,10,3841.83
+ORD0592,2025-06-16,Jun,2025,Cody Lee,Hyderabad,Clothing,Hoodie,4447.67,7,975.39
+ORD0593,2025-06-03,Jun,2025,James Nicholson,Bangalore,Office Supplies,Notebook,14657.86,2,3576.01
+ORD0594,2025-05-29,May,2025,Nathan Allison,Mumbai,Electronics,Smartphone,24315.84,1,5683.29
+ORD0595,2025-07-23,Jul,2025,Amanda Holloway,Varanasi,Clothing,T-Shirt,35524.28,10,7556.22
+ORD0596,2025-07-22,Jul,2025,Courtney Swanson,Pune,Electronics,Keyboard,36575.63,6,-163.79
+ORD0597,2025-08-24,Aug,2025,Terry Wells,Pune,Electronics,Monitor,4744.42,10,148.76
+ORD0598,2025-06-02,Jun,2025,Mary Martinez,Mumbai,Furniture,Cabinet,27803.82,3,4019.02
+ORD0599,2025-09-18,Sep,2025,Garrett Jordan,Hyderabad,Clothing,Jacket,45747.73,10,7050.9
+ORD0600,2025-01-24,Jan,2025,Jonathan Hammond,Delhi,Electronics,Laptop,37921.55,2,8150.54
+ORD0601,2025-06-18,Jun,2025,Michael Jones,Bangalore,Furniture,Chair,32405.39,1,4250.32
+ORD0602,2025-01-15,Jan,2025,Manuel Hinton,Lucknow,Furniture,Table,46702.46,2,10480.42
+ORD0603,2025-01-13,Jan,2025,Lisa Edwards,Bangalore,Office Supplies,Notebook,15462.15,4,2534.36
+ORD0604,2025-06-08,Jun,2025,Nicholas Kent,Hyderabad,Office Supplies,Marker,2705.98,10,609.59
+ORD0605,2025-04-20,Apr,2025,James Snyder,Lucknow,Clothing,Hoodie,45390.61,10,11220.01
+ORD0606,2025-11-24,Nov,2025,Vanessa Hamilton,Bangalore,Office Supplies,Pen,10380.72,8,1869.61
+ORD0607,2025-02-26,Feb,2025,Billy Berry,Varanasi,Furniture,Sofa,36174.25,10,2567.87
+ORD0608,2025-01-10,Jan,2025,Tristan Sawyer,Varanasi,Office Supplies,Marker,26438.86,10,4812.83
+ORD0609,2025-11-22,Nov,2025,Jennifer Hardy,Bangalore,Clothing,Shoes,16782.99,10,3411
+ORD0610,2025-05-10,May,2025,Michael Griffin,Delhi,Office Supplies,Printer Paper,6558.47,7,1481.5
+ORD0611,2025-12-15,Dec,2025,Jeffrey Price,Delhi,Furniture,Sofa,9579.32,4,902.8
+ORD0612,2025-01-06,Jan,2025,Anna Thomas,Delhi,Office Supplies,Marker,25026.38,10,3687.92
+ORD0613,2025-12-21,Dec,2025,Jennifer Weeks,Bangalore,Furniture,Sofa,47588.14,4,909.03
+ORD0614,2025-12-07,Dec,2025,Amanda Kent,Delhi,Office Supplies,Pen,4294.52,9,-23.71
+ORD0615,2025-10-01,Oct,2025,Raymond Martin,Hyderabad,Electronics,Headphones,20437.07,8,3725.59
+ORD0616,2025-03-27,Mar,2025,Richard Blake,Lucknow,Office Supplies,Stapler,41280.68,9,4874.17
+ORD0617,2025-01-16,Jan,2025,Charles Thompson,Delhi,Clothing,Jeans,21065.74,6,4488.15
+ORD0618,2025-12-04,Dec,2025,Jodi Hughes,Lucknow,Office Supplies,Stapler,44683.32,2,7240.68
+ORD0619,2025-08-04,Aug,2025,Rebecca Nguyen,Mumbai,Furniture,Cabinet,8827.69,7,1813.93
+ORD0620,2025-12-14,Dec,2025,James Smith,Hyderabad,Clothing,Jacket,28969.66,1,6530.22
+ORD0621,2025-01-03,Jan,2025,Jackie Grant,Lucknow,Office Supplies,Pen,35277.64,10,7959.19
+ORD0622,2025-06-08,Jun,2025,Andrew Brown,Delhi,Furniture,Cabinet,26324.88,10,-905.19
+ORD0623,2025-01-05,Jan,2025,Jean Leach,Mumbai,Furniture,Sofa,8200.55,5,-75.57
+ORD0624,2025-07-07,Jul,2025,Christopher Cruz,Delhi,Furniture,Chair,32696.88,5,3051.46
+ORD0625,2025-11-24,Nov,2025,Michael Spencer MD,Lucknow,Office Supplies,Stapler,33640.65,5,7089.4
+ORD0626,2025-06-15,Jun,2025,Kevin Mitchell,Mumbai,Furniture,Cabinet,26747.85,1,5652.11
+ORD0627,2025-04-27,Apr,2025,John Jones,Pune,Furniture,Cabinet,15132.17,3,-3.4
+ORD0628,2025-09-04,Sep,2025,Anthony Marshall,Varanasi,Clothing,T-Shirt,4645.02,9,659.78
+ORD0629,2025-06-12,Jun,2025,Jeff Dixon,Hyderabad,Electronics,Monitor,20710.02,8,6169.18
+ORD0630,2025-09-12,Sep,2025,Shelly Green,Pune,Clothing,Jacket,31973.39,1,8262.79
+ORD0631,2025-06-16,Jun,2025,Mark Fox,Pune,Furniture,Sofa,30450.17,10,8071.48
+ORD0632,2025-04-17,Apr,2025,Debra Rodriguez,Lucknow,Office Supplies,Marker,28819.17,6,7714.47
+ORD0633,2025-06-07,Jun,2025,Marissa Raymond,Pune,Clothing,Hoodie,4129.74,3,236.66
+ORD0634,2025-05-12,May,2025,Christy Chan,Lucknow,Clothing,Jacket,6265.79,1,1613.32
+ORD0635,2025-02-20,Feb,2025,Amy Evans,Bangalore,Furniture,Table,2862.12,8,659.83
+ORD0636,2025-09-05,Sep,2025,Jennifer Arellano,Mumbai,Furniture,Cabinet,2332.84,6,580.4
+ORD0637,2025-10-12,Oct,2025,John Lambert,Pune,Clothing,Shoes,6728.82,6,1478.53
+ORD0638,2025-02-27,Feb,2025,Glen Mclaughlin,Delhi,Electronics,Keyboard,49416.79,7,9788.47
+ORD0639,2025-11-10,Nov,2025,Casey Wilson,Lucknow,Furniture,Sofa,11849.98,2,2343.33
+ORD0640,2025-10-12,Oct,2025,John Larsen,Pune,Electronics,Smartphone,15271.75,4,1277.44
+ORD0641,2025-12-22,Dec,2025,Claire Perez,Pune,Furniture,Bed,868.46,2,-39.61
+ORD0642,2025-03-14,Mar,2025,Pamela Valentine,Varanasi,Furniture,Table,22321.62,7,3893.91
+ORD0643,2025-09-19,Sep,2025,Cynthia Stone,Bangalore,Clothing,Shoes,30022.63,3,1385.39
+ORD0644,2025-06-23,Jun,2025,Natasha Thomas,Bangalore,Electronics,Headphones,41366.53,7,4930.69
+ORD0645,2025-12-17,Dec,2025,Robert Oliver,Varanasi,Office Supplies,Marker,19597.35,6,1859.78
+ORD0646,2025-04-20,Apr,2025,Jacob Williams,Bangalore,Office Supplies,Pen,33222.43,3,6612.26
+ORD0647,2025-10-18,Oct,2025,Matthew Moore,Hyderabad,Electronics,Monitor,20576.45,9,5173.14
+ORD0648,2025-08-13,Aug,2025,Nicholas Boone,Delhi,Electronics,Headphones,27157.22,3,-1067.45
+ORD0649,2025-07-29,Jul,2025,Courtney Newman,Varanasi,Clothing,Jeans,39450.13,1,-1641.78
+ORD0650,2025-03-23,Mar,2025,Stephanie Deleon,Lucknow,Electronics,Headphones,24483.25,8,7159.05
+ORD0651,2025-07-28,Jul,2025,Melinda Smith,Mumbai,Electronics,Keyboard,19828.94,3,3305.48
+ORD0652,2025-04-09,Apr,2025,Eric Raymond,Lucknow,Furniture,Bed,45789.09,3,7195.25
+ORD0653,2025-07-23,Jul,2025,Juan Gilmore,Delhi,Clothing,Jacket,28699.75,3,5038.25
+ORD0654,2025-12-01,Dec,2025,John Miller,Varanasi,Clothing,Shoes,9048.04,8,1587.81
+ORD0655,2025-08-23,Aug,2025,Melissa Hull,Mumbai,Clothing,Jeans,22938.14,8,-198.98
+ORD0656,2025-04-18,Apr,2025,Erin Barnes,Varanasi,Clothing,Jeans,43754.39,6,2435.97
+ORD0657,2025-12-11,Dec,2025,Kyle Bowen,Pune,Clothing,Hoodie,28333.48,3,-406.17
+ORD0658,2025-05-02,May,2025,Brooke Jackson,Varanasi,Furniture,Cabinet,4079.29,7,1018.07
+ORD0659,2025-07-31,Jul,2025,Katie Thomas,Lucknow,Furniture,Cabinet,10400.31,2,2479.54
+ORD0660,2025-08-20,Aug,2025,Heather Scott,Lucknow,Clothing,T-Shirt,30664.38,7,160.74
+ORD0661,2025-03-07,Mar,2025,Marco Mitchell,Varanasi,Furniture,Cabinet,11823.03,4,1850.38
+ORD0662,2025-06-07,Jun,2025,Amber King,Pune,Furniture,Bed,33926.09,4,9138.23
+ORD0663,2025-05-12,May,2025,Elizabeth Hill,Bangalore,Clothing,Jeans,29887.76,2,-295.04
+ORD0664,2025-07-27,Jul,2025,Andrea Thomas,Lucknow,Office Supplies,Stapler,44688.37,9,12868.59
+ORD0665,2025-08-16,Aug,2025,Sarah Campbell,Lucknow,Furniture,Chair,32569.59,4,9587.84
+ORD0666,2025-01-13,Jan,2025,Theresa Burke,Delhi,Electronics,Headphones,4555.98,6,1080.88
+ORD0667,2025-10-16,Oct,2025,Loretta Adams,Lucknow,Clothing,T-Shirt,44363.07,3,13308.85
+ORD0668,2025-02-14,Feb,2025,Brittany Gibbs,Hyderabad,Electronics,Monitor,10014.94,7,1816.08
+ORD0669,2025-03-25,Mar,2025,Michael Holmes,Varanasi,Clothing,Hoodie,1538.97,1,-30.57
+ORD0670,2025-01-17,Jan,2025,John Goodman,Hyderabad,Furniture,Sofa,2281.62,1,437.49
+ORD0671,2025-08-10,Aug,2025,Lindsey Erickson,Pune,Clothing,Jeans,28076.89,4,4814.92
+ORD0672,2025-06-30,Jun,2025,Stephen Valentine,Varanasi,Furniture,Bed,16573.94,2,3453.64
+ORD0673,2025-12-10,Dec,2025,Adriana Galvan,Lucknow,Office Supplies,Notebook,20335.18,7,1906.14
+ORD0674,2025-02-10,Feb,2025,Angela Vasquez,Hyderabad,Furniture,Chair,14625.53,7,2033.37
+ORD0675,2025-11-06,Nov,2025,Tony Bishop,Lucknow,Furniture,Sofa,35643.28,5,-289.83
+ORD0676,2025-12-09,Dec,2025,Daniel Trujillo,Bangalore,Furniture,Bed,29522.29,9,2573.96
+ORD0677,2025-10-25,Oct,2025,Dr. Christopher Calhoun,Bangalore,Office Supplies,Pen,37063.73,9,10673.58
+ORD0678,2025-10-27,Oct,2025,Bryan Howard,Mumbai,Clothing,Hoodie,17296.19,1,398.89
+ORD0679,2025-09-08,Sep,2025,Jason Wilkerson,Varanasi,Office Supplies,Pen,26485.02,10,-1206.99
+ORD0680,2025-11-13,Nov,2025,David Davis,Hyderabad,Clothing,Hoodie,41395.13,8,7718.06
+ORD0681,2025-08-28,Aug,2025,Frank Kelly,Mumbai,Furniture,Table,10939.85,9,-230.07
+ORD0682,2025-08-30,Aug,2025,Danielle Ball,Delhi,Clothing,Jeans,24593.33,3,-1025.19
+ORD0683,2025-08-05,Aug,2025,Diane Harper,Bangalore,Electronics,Smartphone,27779.7,5,3122.5
+ORD0684,2025-04-20,Apr,2025,Charles Morgan,Varanasi,Office Supplies,Marker,1831.52,5,245.77
+ORD0685,2025-08-05,Aug,2025,Heather Nelson,Delhi,Office Supplies,Pen,12639.53,7,1322.09
+ORD0686,2025-05-15,May,2025,Andrew Becker,Pune,Electronics,Monitor,13518.74,1,-129.61
+ORD0687,2025-05-26,May,2025,Donald Jones,Mumbai,Clothing,T-Shirt,49577.61,4,14665.19
+ORD0688,2025-05-23,May,2025,Stephanie Wilson,Bangalore,Furniture,Cabinet,49935.57,7,-492.01
+ORD0689,2025-07-21,Jul,2025,Rebecca Ray,Bangalore,Clothing,T-Shirt,39797.02,10,10908.13
+ORD0690,2025-01-17,Jan,2025,Nicholas Mitchell,Pune,Clothing,Jeans,34117.35,10,9662.47
+ORD0691,2025-07-05,Jul,2025,Christopher Lara,Hyderabad,Furniture,Cabinet,9760.53,7,-134.19
+ORD0692,2025-04-14,Apr,2025,Emily Benton,Delhi,Office Supplies,Pen,10644.7,7,2432.42
+ORD0693,2025-07-21,Jul,2025,Mr. Sean Rivers,Varanasi,Office Supplies,Pen,28868.38,9,4244.25
+ORD0694,2025-01-26,Jan,2025,Matthew Bennett,Pune,Furniture,Table,11136.69,4,-360.42
+ORD0695,2025-08-22,Aug,2025,Lisa Shelton,Delhi,Office Supplies,Printer Paper,18836.76,8,-150.19
+ORD0696,2025-06-13,Jun,2025,Sharon Fowler,Delhi,Office Supplies,Notebook,22582.72,7,3996.04
+ORD0697,2025-01-04,Jan,2025,Kenneth Johnson,Pune,Office Supplies,Marker,21707.54,10,2863.51
+ORD0698,2025-07-15,Jul,2025,Theresa Ramirez,Pune,Electronics,Headphones,35018.45,8,6704.52
+ORD0699,2025-03-26,Mar,2025,Julie Cobb,Varanasi,Office Supplies,Pen,49203.15,3,4004.48
+ORD0700,2025-01-09,Jan,2025,Heather Fisher,Varanasi,Office Supplies,Notebook,36464.57,1,6215.21
+ORD0701,2025-02-06,Feb,2025,Heidi Hoover,Pune,Furniture,Chair,42083.85,2,6897.15
+ORD0702,2025-09-19,Sep,2025,Jeffrey Brown,Lucknow,Furniture,Cabinet,17514.71,9,1435.87
+ORD0703,2025-08-13,Aug,2025,Karen Wilcox,Mumbai,Clothing,Jeans,28208.73,8,407.19
+ORD0704,2025-09-29,Sep,2025,Brianna Hester,Lucknow,Electronics,Headphones,12513.59,2,3649.51
+ORD0705,2025-11-09,Nov,2025,Danielle English,Bangalore,Office Supplies,Printer Paper,12188.12,7,3648.43
+ORD0706,2025-01-02,Jan,2025,Jessica Arias,Lucknow,Furniture,Sofa,9721.91,1,2835.94
+ORD0707,2025-05-11,May,2025,Mandy Gordon,Varanasi,Electronics,Smartphone,25327.19,4,4157.93
+ORD0708,2025-06-20,Jun,2025,Hannah Williams,Pune,Electronics,Headphones,28176.74,2,1060.79
+ORD0709,2025-06-14,Jun,2025,Bryan Buchanan,Lucknow,Electronics,Keyboard,32352.29,4,1064.45
+ORD0710,2025-01-31,Jan,2025,Timothy Washington,Lucknow,Clothing,T-Shirt,32230.68,3,3764.07
+ORD0711,2025-11-11,Nov,2025,Kimberly Santos,Bangalore,Furniture,Cabinet,8614.22,7,161.09
+ORD0712,2025-03-14,Mar,2025,Julie Young DDS,Lucknow,Electronics,Smartphone,13210.82,6,2292.24
+ORD0713,2025-05-07,May,2025,Rachel Thomas,Bangalore,Office Supplies,Marker,10515.91,8,739.06
+ORD0714,2025-08-17,Aug,2025,Sheryl Greene,Mumbai,Clothing,Shoes,40302.3,9,5911.98
+ORD0715,2025-07-24,Jul,2025,Robert Parker,Delhi,Office Supplies,Marker,1970.43,9,239.84
+ORD0716,2025-07-11,Jul,2025,David Bowen,Lucknow,Office Supplies,Stapler,16530.4,1,1521
+ORD0717,2025-05-13,May,2025,Richard Evans,Mumbai,Clothing,Shoes,29902.31,1,554.15
+ORD0718,2025-11-04,Nov,2025,Stephanie Martin,Mumbai,Office Supplies,Notebook,22649.83,9,3778.87
+ORD0719,2025-04-23,Apr,2025,Brian Sanchez,Mumbai,Electronics,Monitor,38323.79,3,4051.45
+ORD0720,2025-11-18,Nov,2025,Jennifer Wells,Lucknow,Electronics,Monitor,41553.53,6,3686.2
+ORD0721,2025-11-25,Nov,2025,Renee Acosta,Delhi,Electronics,Monitor,38817.88,6,9843.04
+ORD0722,2025-11-02,Nov,2025,Michael Wilcox,Mumbai,Office Supplies,Marker,32559.06,10,2659.47
+ORD0723,2025-09-25,Sep,2025,Barbara Rowland,Pune,Clothing,Jeans,24396.5,5,610.27
+ORD0724,2025-04-07,Apr,2025,Andrew Garrison,Lucknow,Electronics,Smartphone,45780.96,10,-482.08
+ORD0725,2025-11-29,Nov,2025,Monica Evans,Delhi,Electronics,Keyboard,42581.77,2,8794.82
+ORD0726,2025-02-19,Feb,2025,Stephanie Miller PhD,Mumbai,Furniture,Cabinet,49185.45,6,2034.56
+ORD0727,2025-04-10,Apr,2025,Jamie Murray,Hyderabad,Clothing,Shoes,2675.72,10,92.87
+ORD0728,2025-12-28,Dec,2025,Felicia Steele,Bangalore,Clothing,Hoodie,47271.27,3,9207.47
+ORD0729,2025-10-21,Oct,2025,George Frank,Bangalore,Office Supplies,Printer Paper,28416.32,2,2230.67
+ORD0730,2025-10-28,Oct,2025,Jordan Hale,Hyderabad,Clothing,Jacket,22098.29,9,182.56
+ORD0731,2025-03-21,Mar,2025,Wanda Leblanc,Bangalore,Electronics,Smartphone,9413.6,6,-288.09
+ORD0732,2025-04-28,Apr,2025,Anna Smith,Varanasi,Electronics,Laptop,10984.38,9,923.13
+ORD0733,2025-05-14,May,2025,Cody Wall,Delhi,Clothing,Hoodie,37091.16,8,289.13
+ORD0734,2025-08-19,Aug,2025,Gary Howard,Varanasi,Electronics,Monitor,40509.72,9,11690.26
+ORD0735,2025-12-31,Dec,2025,Todd Lester,Lucknow,Furniture,Table,12630.55,1,311.38
+ORD0736,2025-07-31,Jul,2025,Tyrone Beasley,Varanasi,Electronics,Keyboard,36118.41,4,4637.48
+ORD0737,2025-02-17,Feb,2025,Jeffrey Cortez,Hyderabad,Electronics,Smartphone,42496.3,2,2625.62
+ORD0738,2025-01-01,Jan,2025,David Gibson,Lucknow,Clothing,Jeans,11604.06,5,481.42
+ORD0739,2025-04-11,Apr,2025,Brenda Ward,Varanasi,Clothing,Hoodie,1022.95,3,131.76
+ORD0740,2025-03-11,Mar,2025,Beth Harper,Mumbai,Electronics,Keyboard,4629.32,9,402.23
+ORD0741,2025-04-01,Apr,2025,Elizabeth Carter,Lucknow,Clothing,Jacket,8734.34,10,107.2
+ORD0742,2025-06-30,Jun,2025,Kendra Lopez,Delhi,Clothing,Jacket,4854.63,4,306.75
+ORD0743,2025-01-16,Jan,2025,Julie Gilbert,Lucknow,Clothing,Hoodie,26709.06,1,7386.83
+ORD0744,2025-10-15,Oct,2025,Eduardo Martin,Delhi,Electronics,Laptop,26182.2,4,2453.84
+ORD0745,2025-04-17,Apr,2025,Gregory Turner,Bangalore,Electronics,Monitor,45307.66,5,1159.29
+ORD0746,2025-08-24,Aug,2025,Katherine Curry,Pune,Electronics,Monitor,11140.47,6,2158.71
+ORD0747,2025-04-17,Apr,2025,Mary Anderson,Lucknow,Clothing,T-Shirt,22975.54,6,-320.21
+ORD0748,2025-07-04,Jul,2025,Paul Wolfe,Pune,Clothing,Jeans,23533.58,6,-1157.2
+ORD0749,2025-02-01,Feb,2025,Anthony Robinson,Hyderabad,Clothing,Shoes,43435.1,3,5962.15
+ORD0750,2025-05-20,May,2025,Desiree Chapman,Pune,Office Supplies,Notebook,1128.77,2,176.35
+ORD0751,2025-02-05,Feb,2025,Peter Soto,Lucknow,Electronics,Smartphone,25306.01,4,4031.28
+ORD0752,2025-06-17,Jun,2025,Samantha Davis,Mumbai,Furniture,Chair,24805.57,10,-526.44
+ORD0753,2025-08-08,Aug,2025,Leah Riley,Varanasi,Electronics,Smartphone,43065.67,6,6040.93
+ORD0754,2025-08-15,Aug,2025,Sandra Brock,Bangalore,Electronics,Headphones,35392.33,3,6277.45
+ORD0755,2025-05-21,May,2025,Daniel Hendricks,Varanasi,Electronics,Headphones,1013.59,10,27.83
+ORD0756,2025-05-03,May,2025,Chris Cox,Pune,Electronics,Headphones,10321.42,8,58.56
+ORD0757,2025-03-21,Mar,2025,Michele Williams,Delhi,Furniture,Bed,8307.19,8,2382.22
+ORD0758,2025-02-03,Feb,2025,Jeffrey Wilson,Pune,Furniture,Bed,42341.11,7,924.16
+ORD0759,2025-04-27,Apr,2025,Amber Baird,Pune,Electronics,Keyboard,30108.11,3,1442.36
+ORD0760,2025-06-29,Jun,2025,Henry Owens,Lucknow,Office Supplies,Printer Paper,44265.23,9,11051.35
+ORD0761,2025-03-16,Mar,2025,Tanya Rodriguez,Delhi,Furniture,Bed,35385.57,3,7954.16
+ORD0762,2025-02-18,Feb,2025,Patrick Douglas,Lucknow,Clothing,Shoes,15736.92,3,738.81
+ORD0763,2025-07-07,Jul,2025,Michael Mcfarland,Varanasi,Clothing,Jeans,1173.66,9,287.12
+ORD0764,2025-01-15,Jan,2025,Kimberly Brown,Lucknow,Furniture,Chair,33746.75,6,1028.26
+ORD0765,2025-11-18,Nov,2025,David Brown,Bangalore,Electronics,Keyboard,2855.18,3,-127.93
+ORD0766,2025-06-05,Jun,2025,Karen Mahoney,Delhi,Clothing,Jeans,19107.32,9,1081.48
+ORD0767,2025-10-23,Oct,2025,Ryan Harris,Hyderabad,Office Supplies,Notebook,24000.52,7,4161.03
+ORD0768,2025-08-31,Aug,2025,Jacqueline Craig,Lucknow,Furniture,Cabinet,3252.54,3,941.49
+ORD0769,2025-02-24,Feb,2025,Martin Pearson,Delhi,Furniture,Chair,34923.91,9,4452.41
+ORD0770,2025-04-16,Apr,2025,Jason Estrada,Mumbai,Office Supplies,Stapler,24534.76,1,3938.73
+ORD0771,2025-10-15,Oct,2025,Emily Fields,Hyderabad,Clothing,Jacket,19391.45,4,2759.58
+ORD0772,2025-03-25,Mar,2025,Eric Quinn,Varanasi,Electronics,Monitor,38035.76,8,-806.63
+ORD0773,2025-04-21,Apr,2025,Rachel Reid,Varanasi,Office Supplies,Printer Paper,26084.25,9,418.82
+ORD0774,2025-07-27,Jul,2025,Angela Lee,Pune,Electronics,Monitor,36275.52,1,8199.03
+ORD0775,2025-03-01,Mar,2025,Michael Greer,Mumbai,Clothing,Jeans,31621.25,8,9475.22
+ORD0776,2025-04-20,Apr,2025,Ryan Turner,Varanasi,Clothing,Jacket,7788.35,2,1448.86
+ORD0777,2025-12-05,Dec,2025,Sarah Alexander,Bangalore,Electronics,Monitor,30522.4,8,3581.78
+ORD0778,2025-01-29,Jan,2025,Yolanda Kim,Mumbai,Furniture,Sofa,34694.62,2,-1358.86
+ORD0779,2025-07-23,Jul,2025,Rebecca Williams,Lucknow,Electronics,Smartphone,46459.29,4,5864.73
+ORD0780,2025-04-15,Apr,2025,Luke Orr,Varanasi,Furniture,Bed,41591.44,9,7682.38
+ORD0781,2025-11-25,Nov,2025,Tracey Dillon,Lucknow,Office Supplies,Pen,34932.43,1,4625.76
+ORD0782,2025-09-24,Sep,2025,Kirsten Green,Hyderabad,Electronics,Laptop,43651.76,5,8778.5
+ORD0783,2025-07-13,Jul,2025,Sarah Davis,Bangalore,Clothing,T-Shirt,40516.1,6,7722.96
+ORD0784,2025-06-03,Jun,2025,Charles Johnson,Varanasi,Furniture,Cabinet,31529.87,4,60.96
+ORD0785,2025-07-17,Jul,2025,Tracy Fox,Varanasi,Electronics,Laptop,2362.51,4,274.89
+ORD0786,2025-04-17,Apr,2025,James Ross,Pune,Clothing,Jacket,44353.66,7,8057.42
+ORD0787,2025-07-20,Jul,2025,Lauren Oconnor,Pune,Electronics,Laptop,12152.78,6,2321.82
+ORD0788,2025-07-15,Jul,2025,Larry Wise,Lucknow,Furniture,Bed,22089.27,10,3992.13
+ORD0789,2025-11-06,Nov,2025,Jacob Simpson,Hyderabad,Office Supplies,Pen,2768.6,6,23.52
+ORD0790,2025-06-03,Jun,2025,Dr. Anna Lynch,Hyderabad,Office Supplies,Printer Paper,44887.03,10,9307.2
+ORD0791,2025-09-17,Sep,2025,Michael Torres,Hyderabad,Clothing,Shoes,26067.74,9,1605.22
+ORD0792,2025-12-02,Dec,2025,Heather Goodman,Pune,Furniture,Sofa,8553.98,10,2195.46
+ORD0793,2025-07-15,Jul,2025,Tammy Jacobs,Hyderabad,Electronics,Smartphone,33074.77,7,-1172.26
+ORD0794,2025-07-16,Jul,2025,Brandi Flores,Varanasi,Office Supplies,Stapler,32111.76,9,5193.99
+ORD0795,2025-04-04,Apr,2025,Thomas Weeks,Varanasi,Furniture,Chair,7602.05,10,864.44
+ORD0796,2025-07-09,Jul,2025,Mandy Willis,Hyderabad,Furniture,Cabinet,2304.98,5,5.17
+ORD0797,2025-12-12,Dec,2025,Jessica Palmer,Bangalore,Furniture,Cabinet,36582.12,5,4541.97
+ORD0798,2025-09-20,Sep,2025,Darrell Brown,Varanasi,Office Supplies,Printer Paper,28878.86,3,5847.69
+ORD0799,2025-10-27,Oct,2025,Alex Barton,Delhi,Clothing,Jeans,29811.05,3,2122.43
+ORD0800,2025-11-14,Nov,2025,Johnathan Peterson,Mumbai,Furniture,Chair,15886.8,3,4183.63
+ORD0801,2025-10-26,Oct,2025,Alicia Bryan,Delhi,Office Supplies,Stapler,23647.46,8,1873.39
+ORD0802,2025-09-16,Sep,2025,Melissa Hall,Varanasi,Electronics,Keyboard,11801.83,5,566.45
+ORD0803,2025-02-21,Feb,2025,Ronald Bell,Lucknow,Office Supplies,Marker,29371.82,8,3441.42
+ORD0804,2025-05-06,May,2025,Angela Hamilton,Pune,Furniture,Bed,22986.01,6,3594.92
+ORD0805,2025-11-17,Nov,2025,Dana Ruiz,Delhi,Office Supplies,Marker,21700.6,3,2052.67
+ORD0806,2025-04-13,Apr,2025,Paula Mendoza,Mumbai,Clothing,T-Shirt,47597.64,4,-154.03
+ORD0807,2025-08-14,Aug,2025,Sharon Williamson,Pune,Furniture,Sofa,6004.42,7,1080.36
+ORD0808,2025-07-03,Jul,2025,Crystal Anderson,Varanasi,Clothing,Hoodie,27442.96,3,-851.04
+ORD0809,2025-02-18,Feb,2025,Jacob Williams,Pune,Electronics,Keyboard,42033.26,10,-75.86
+ORD0810,2025-06-05,Jun,2025,David Shaffer,Delhi,Office Supplies,Notebook,24753.95,10,6289.38
+ORD0811,2025-11-16,Nov,2025,Ronald Carroll,Delhi,Furniture,Bed,28020.15,10,4861.85
+ORD0812,2025-06-27,Jun,2025,Kimberly Valdez,Hyderabad,Electronics,Keyboard,29623.92,6,5317.13
+ORD0813,2025-07-11,Jul,2025,Lisa Watkins,Bangalore,Office Supplies,Pen,25237.37,2,835.24
+ORD0814,2025-12-01,Dec,2025,Vanessa Payne,Lucknow,Furniture,Cabinet,15824.66,9,2436.46
+ORD0815,2025-06-01,Jun,2025,Angela James,Pune,Electronics,Laptop,38598.22,9,3927.58
+ORD0816,2025-06-26,Jun,2025,Krista Casey,Varanasi,Clothing,Jeans,13350.19,6,3602.12
+ORD0817,2025-10-13,Oct,2025,Pam Ferguson,Varanasi,Clothing,Jacket,18171.55,7,1035.49
+ORD0818,2025-10-12,Oct,2025,Cynthia Williams,Hyderabad,Office Supplies,Printer Paper,42850.88,6,11829.85
+ORD0819,2025-12-02,Dec,2025,Kayla Gilmore,Bangalore,Furniture,Table,33453.53,10,7335.88
+ORD0820,2025-03-02,Mar,2025,Kyle Richardson,Hyderabad,Office Supplies,Printer Paper,23866.48,2,2411.78
+ORD0821,2025-02-18,Feb,2025,Shelly Turner,Mumbai,Electronics,Smartphone,8791.3,5,792.81
+ORD0822,2025-08-31,Aug,2025,Samantha Holmes,Bangalore,Furniture,Chair,47404.45,1,-1875.67
+ORD0823,2025-03-26,Mar,2025,Ariana Mitchell,Bangalore,Clothing,T-Shirt,22327.57,8,281.47
+ORD0824,2025-06-20,Jun,2025,Ashley Huffman,Bangalore,Clothing,Shoes,35920.71,3,2957.76
+ORD0825,2025-01-28,Jan,2025,Lauren Turner,Delhi,Office Supplies,Marker,8801.23,3,875.89
+ORD0826,2025-10-07,Oct,2025,Carlos Brewer,Pune,Furniture,Cabinet,19910.56,1,1041.02
+ORD0827,2025-02-07,Feb,2025,Michael Henry,Lucknow,Furniture,Bed,10441.49,1,866.53
+ORD0828,2025-03-13,Mar,2025,Catherine Friedman,Hyderabad,Electronics,Keyboard,1135.34,10,-5.84
+ORD0829,2025-06-09,Jun,2025,Tammy Brooks,Varanasi,Furniture,Table,27897.58,8,4490.22
+ORD0830,2025-08-24,Aug,2025,Kevin Atkins,Hyderabad,Clothing,T-Shirt,47157.38,4,4290.03
+ORD0831,2025-11-26,Nov,2025,Mark Winters,Hyderabad,Furniture,Sofa,4709.99,6,1347.31
+ORD0832,2025-08-19,Aug,2025,Catherine Moore,Delhi,Furniture,Table,15324.41,8,-534.49
+ORD0833,2025-11-13,Nov,2025,Megan Thomas,Mumbai,Office Supplies,Marker,34467.6,7,4793.68
+ORD0834,2025-12-09,Dec,2025,Cynthia Griffin,Lucknow,Furniture,Bed,46454.46,5,7045.69
+ORD0835,2025-11-13,Nov,2025,Katie Beasley,Hyderabad,Furniture,Sofa,19671.74,9,3349.63
+ORD0836,2025-04-02,Apr,2025,Kenneth Ward,Delhi,Electronics,Headphones,4606.39,2,1199.75
+ORD0837,2025-03-15,Mar,2025,Leslie Stewart,Bangalore,Office Supplies,Stapler,3446.87,6,978.58
+ORD0838,2025-05-01,May,2025,Kenneth Vincent,Varanasi,Clothing,Jacket,5860.23,10,753.21
+ORD0839,2025-05-20,May,2025,William Mcbride,Pune,Clothing,Jeans,31030.94,6,1176.55
+ORD0840,2025-12-23,Dec,2025,Alan Rose,Bangalore,Electronics,Smartphone,43860.34,7,8820.33
+ORD0841,2025-04-05,Apr,2025,Susan Wilson,Bangalore,Electronics,Headphones,17357.65,6,3426.28
+ORD0842,2025-03-26,Mar,2025,Joe Murphy,Delhi,Furniture,Chair,19437.29,1,5751.47
+ORD0843,2025-05-01,May,2025,Stacy Garcia,Hyderabad,Office Supplies,Marker,24236.3,1,2401
+ORD0844,2025-05-03,May,2025,Chad Schultz,Lucknow,Furniture,Sofa,30538.63,3,6481.62
+ORD0845,2025-07-23,Jul,2025,Audrey Hall,Mumbai,Furniture,Cabinet,38693.6,10,-1687.82
+ORD0846,2025-08-13,Aug,2025,Larry Greer,Hyderabad,Furniture,Table,20909.04,7,1344.28
+ORD0847,2025-12-15,Dec,2025,Tara Wilson,Pune,Electronics,Laptop,6121.84,6,993
+ORD0848,2025-06-03,Jun,2025,Jeffrey Parrish,Bangalore,Electronics,Monitor,31071.27,1,6259.75
+ORD0849,2025-09-15,Sep,2025,John Sanchez,Pune,Office Supplies,Marker,24209.7,5,6603.75
+ORD0850,2025-03-30,Mar,2025,Larry Crosby,Hyderabad,Clothing,Shoes,37707.23,1,2619.85
+ORD0851,2025-08-26,Aug,2025,Anita Glass,Pune,Office Supplies,Notebook,26059.77,5,891.8
+ORD0852,2025-03-26,Mar,2025,Laura Dunn,Mumbai,Furniture,Sofa,30980.76,3,8615.72
+ORD0853,2025-12-21,Dec,2025,Jonathan Price,Mumbai,Office Supplies,Printer Paper,33574.34,8,2190.83
+ORD0854,2025-03-15,Mar,2025,Sherry Becker,Mumbai,Office Supplies,Pen,46197.17,9,8870.07
+ORD0855,2025-11-16,Nov,2025,Maria Turner,Pune,Electronics,Laptop,21303.8,2,-698.75
+ORD0856,2025-06-23,Jun,2025,Laura Wyatt,Bangalore,Office Supplies,Marker,18319.12,3,-115.8
+ORD0857,2025-09-26,Sep,2025,Renee Simpson,Mumbai,Clothing,T-Shirt,4096.58,3,200.81
+ORD0858,2025-10-06,Oct,2025,Eileen Saunders,Bangalore,Clothing,T-Shirt,43997.37,4,1897.87
+ORD0859,2025-03-11,Mar,2025,Charles Schmidt,Hyderabad,Clothing,Jacket,29756.79,7,-591.36
+ORD0860,2025-09-06,Sep,2025,Scott Griffin,Mumbai,Clothing,Shoes,28568.68,5,-1295.5
+ORD0861,2025-12-03,Dec,2025,Melissa Stein,Delhi,Clothing,Shoes,28168.71,3,-1067.41
+ORD0862,2025-06-30,Jun,2025,Wesley Wilson,Hyderabad,Clothing,Jacket,37374.2,10,-57.52
+ORD0863,2025-09-14,Sep,2025,Brandon Torres,Varanasi,Office Supplies,Stapler,48607.61,4,4903.81
+ORD0864,2025-09-01,Sep,2025,Jessica Heath,Bangalore,Electronics,Smartphone,17377.64,4,3341.34
+ORD0865,2025-05-10,May,2025,Zachary Thomas,Hyderabad,Furniture,Cabinet,33276.41,9,9938.9
+ORD0866,2025-06-15,Jun,2025,Justin Mckinney,Delhi,Office Supplies,Marker,25626.67,2,1068.71
+ORD0867,2025-12-10,Dec,2025,Daniel Murray,Delhi,Furniture,Sofa,24945,10,4420.8
+ORD0868,2025-12-02,Dec,2025,Kevin Mcfarland,Pune,Office Supplies,Stapler,35084.68,10,4804.22
+ORD0869,2025-05-30,May,2025,James Beck,Delhi,Office Supplies,Printer Paper,7974.18,2,1897.93
+ORD0870,2025-09-17,Sep,2025,Lori Calhoun,Bangalore,Furniture,Chair,24292.25,7,5985.49
+ORD0871,2025-07-28,Jul,2025,Tyler Lopez,Bangalore,Furniture,Chair,43775.56,10,10787.51
+ORD0872,2025-01-21,Jan,2025,Patricia Vasquez,Bangalore,Clothing,Shoes,46874.19,4,3749.26
+ORD0873,2025-05-19,May,2025,Lisa Rodriguez,Varanasi,Clothing,Jeans,31775.14,9,5595.46
+ORD0874,2025-07-08,Jul,2025,Melinda Castaneda,Hyderabad,Clothing,Jeans,20495.67,10,4334.64
+ORD0875,2025-10-17,Oct,2025,Brandon White,Mumbai,Office Supplies,Marker,13663.93,9,1515.08
+ORD0876,2025-12-14,Dec,2025,Nicholas Ward,Delhi,Office Supplies,Notebook,24768.33,6,3009.63
+ORD0877,2025-08-25,Aug,2025,Joseph Foley,Hyderabad,Furniture,Table,29835.7,4,956.27
+ORD0878,2025-06-08,Jun,2025,Debra Butler,Pune,Electronics,Smartphone,16149.56,10,4713.72
+ORD0879,2025-07-30,Jul,2025,Joseph Hall,Mumbai,Furniture,Sofa,32171.39,8,2257.85
+ORD0880,2025-07-25,Jul,2025,William Lucero,Bangalore,Office Supplies,Notebook,10088.98,3,-87.07
+ORD0881,2025-12-10,Dec,2025,Christopher Miller,Varanasi,Electronics,Keyboard,3413.16,8,956.94
+ORD0882,2025-05-21,May,2025,Diana White,Bangalore,Clothing,T-Shirt,28036.34,10,5107.74
+ORD0883,2025-07-26,Jul,2025,Megan Smith,Varanasi,Office Supplies,Notebook,37531.18,9,10472.65
+ORD0884,2025-04-29,Apr,2025,Brenda Hanson,Delhi,Electronics,Monitor,33098.16,8,2935.53
+ORD0885,2025-02-12,Feb,2025,Karen Ruiz,Varanasi,Electronics,Keyboard,30089.3,10,5553.39
+ORD0886,2025-12-13,Dec,2025,Kim Clark,Mumbai,Office Supplies,Pen,38075.26,5,9032.96
+ORD0887,2025-10-11,Oct,2025,Michael Henderson,Pune,Clothing,Jacket,26280.62,9,1085.1
+ORD0888,2025-06-15,Jun,2025,Casey Diaz,Mumbai,Electronics,Monitor,42297.77,10,9001.79
+ORD0889,2025-11-25,Nov,2025,Loretta Miller,Bangalore,Clothing,T-Shirt,23765.76,10,4935.77
+ORD0890,2025-06-16,Jun,2025,Duane Garcia,Pune,Electronics,Keyboard,18994.82,10,2224.87
+ORD0891,2025-04-06,Apr,2025,Timothy Jackson,Varanasi,Office Supplies,Pen,20924.37,7,3603.3
+ORD0892,2025-07-07,Jul,2025,Ashley Blankenship,Lucknow,Clothing,Shoes,33799.13,10,-1103.8
+ORD0893,2025-02-19,Feb,2025,Lisa Murray,Delhi,Office Supplies,Pen,17276.53,4,2818.08
+ORD0894,2025-11-10,Nov,2025,Hannah Hansen,Hyderabad,Office Supplies,Notebook,24723.16,2,-94.4
+ORD0895,2025-07-19,Jul,2025,Christopher Thomas,Lucknow,Office Supplies,Stapler,43567.06,6,-1040
+ORD0896,2025-11-04,Nov,2025,Cindy Fitzgerald,Bangalore,Clothing,T-Shirt,38576.1,10,3259.39
+ORD0897,2025-03-22,Mar,2025,Mrs. Maria Simpson,Mumbai,Clothing,Shoes,33303.47,1,174.09
+ORD0898,2025-04-23,Apr,2025,Samantha Nguyen,Mumbai,Office Supplies,Printer Paper,10794.92,6,-266.22
+ORD0899,2025-06-04,Jun,2025,James Freeman,Pune,Electronics,Monitor,37154.89,2,10038.06
+ORD0900,2025-03-25,Mar,2025,David Gonzalez,Pune,Clothing,Hoodie,1479.06,2,276.19
+ORD0901,2025-01-10,Jan,2025,Jorge Osborne,Lucknow,Furniture,Table,42245.77,7,10331.35
+ORD0902,2025-03-26,Mar,2025,Kevin Sharp,Varanasi,Clothing,Shoes,46039.69,2,8840.55
+ORD0903,2025-10-02,Oct,2025,Todd Smith,Hyderabad,Electronics,Keyboard,26865.11,10,1220.59
+ORD0904,2025-04-19,Apr,2025,Marcus Clay,Pune,Furniture,Bed,33822.92,5,7224.61
+ORD0905,2025-02-16,Feb,2025,Brent Lester,Lucknow,Office Supplies,Printer Paper,13796.69,3,3367.47
+ORD0906,2025-09-21,Sep,2025,Rebecca Wilson,Bangalore,Furniture,Chair,17468.36,2,1876.08
+ORD0907,2025-09-14,Sep,2025,Eric Barton,Hyderabad,Office Supplies,Notebook,41506.43,9,2005.74
+ORD0908,2025-06-29,Jun,2025,Sandra Mills,Varanasi,Furniture,Sofa,16050.05,9,685.29
+ORD0909,2025-12-15,Dec,2025,Robert Wilson,Delhi,Office Supplies,Pen,38359.18,1,-1899.36
+ORD0910,2025-06-05,Jun,2025,Mr. Jonathan Johnson,Bangalore,Clothing,Hoodie,1193.85,7,116.49
+ORD0911,2025-08-28,Aug,2025,Amy Castillo,Varanasi,Furniture,Bed,3381.83,4,14.42
+ORD0912,2025-11-06,Nov,2025,Sean Burke,Pune,Furniture,Bed,15349.95,1,157.96
+ORD0913,2025-06-01,Jun,2025,Robert Madden,Delhi,Furniture,Bed,39430.56,1,10735.48
+ORD0914,2025-12-27,Dec,2025,Mary Bernard,Mumbai,Furniture,Table,18575.63,4,2047.72
+ORD0915,2025-01-12,Jan,2025,David Frye,Lucknow,Furniture,Bed,43093.5,7,6666.12
+ORD0916,2025-10-03,Oct,2025,Curtis Nolan,Hyderabad,Electronics,Monitor,3852.42,8,88.6
+ORD0917,2025-10-17,Oct,2025,Melissa Mckay,Delhi,Furniture,Chair,34403.08,2,8481.46
+ORD0918,2025-04-01,Apr,2025,Lorraine Gutierrez,Pune,Office Supplies,Printer Paper,44243.68,7,3457.55
+ORD0919,2025-09-24,Sep,2025,Kyle Thompson,Mumbai,Furniture,Bed,1602.58,3,415.12
+ORD0920,2025-02-01,Feb,2025,Jeffrey Hayes,Delhi,Furniture,Cabinet,2450.82,5,104.2
+ORD0921,2025-01-18,Jan,2025,Mr. Christopher Wilson,Delhi,Clothing,Shoes,15395.66,1,3228.23
+ORD0922,2025-10-21,Oct,2025,Bryan Graves,Pune,Office Supplies,Stapler,18897.15,1,1428.56
+ORD0923,2025-12-18,Dec,2025,Jim Gregory,Mumbai,Clothing,T-Shirt,36697.16,10,578.12
+ORD0924,2025-12-21,Dec,2025,Traci Dougherty,Varanasi,Furniture,Cabinet,42343.7,6,2739.96
+ORD0925,2025-11-01,Nov,2025,Lauren Wolf,Hyderabad,Office Supplies,Pen,28769.36,6,5151.41
+ORD0926,2025-05-09,May,2025,Heather Nichols,Delhi,Clothing,Jacket,40539.98,4,9664.46
+ORD0927,2025-05-02,May,2025,Joshua Stanley,Mumbai,Clothing,T-Shirt,34318.81,3,8930.62
+ORD0928,2025-08-13,Aug,2025,Kendra Williams,Varanasi,Electronics,Laptop,24527.13,7,4606.33
+ORD0929,2025-04-26,Apr,2025,Mackenzie Contreras,Mumbai,Clothing,Hoodie,10301.73,1,-173.17
+ORD0930,2025-07-13,Jul,2025,Mark Gregory,Varanasi,Office Supplies,Notebook,8615.25,5,204.02
+ORD0931,2025-11-16,Nov,2025,Amanda Medina,Hyderabad,Electronics,Keyboard,17034.57,10,2055.88
+ORD0932,2025-04-18,Apr,2025,Joshua Hood,Hyderabad,Clothing,Shoes,17764.27,4,4861.63
+ORD0933,2025-03-09,Mar,2025,David Harris Jr.,Pune,Furniture,Chair,21580.73,5,2787.11
+ORD0934,2025-10-01,Oct,2025,Alan Spencer,Bangalore,Electronics,Smartphone,18270.24,3,915.1
+ORD0935,2025-07-14,Jul,2025,Patrick Knight,Lucknow,Clothing,Hoodie,12113.56,4,-64.38
+ORD0936,2025-04-04,Apr,2025,Dawn Cunningham,Mumbai,Clothing,Shoes,36245.04,6,4250.87
+ORD0937,2025-11-02,Nov,2025,James Turner,Lucknow,Office Supplies,Notebook,11683.43,2,901.39
+ORD0938,2025-10-21,Oct,2025,Denise Bond,Bangalore,Furniture,Cabinet,8078.14,9,798.09
+ORD0939,2025-11-10,Nov,2025,Lindsay Castillo,Hyderabad,Clothing,Jeans,45026.54,10,1428.68
+ORD0940,2025-04-14,Apr,2025,Scott Buchanan,Delhi,Furniture,Chair,42887.54,4,11377.54
+ORD0941,2025-12-09,Dec,2025,Michelle Johnson,Pune,Electronics,Headphones,13393.09,4,1281.4
+ORD0942,2025-11-24,Nov,2025,Brooke Hernandez,Varanasi,Furniture,Chair,39890.86,1,10290.35
+ORD0943,2025-09-20,Sep,2025,Jeffrey Jackson,Bangalore,Clothing,Jeans,29789.07,7,5247.25
+ORD0944,2025-08-31,Aug,2025,Michael Landry,Pune,Electronics,Laptop,15953.45,5,3503.58
+ORD0945,2025-04-06,Apr,2025,Mrs. Amanda Casey MD,Delhi,Office Supplies,Pen,839.98,2,58.27
+ORD0946,2025-02-28,Feb,2025,Jasmine Lambert,Delhi,Electronics,Monitor,23178.63,5,3283.43
+ORD0947,2025-06-14,Jun,2025,Kayla Lee,Lucknow,Electronics,Keyboard,43299.82,7,3543.33
+ORD0948,2025-04-09,Apr,2025,Dylan Ford,Hyderabad,Electronics,Keyboard,12155.55,9,792
+ORD0949,2025-12-12,Dec,2025,Yolanda Williams,Varanasi,Furniture,Sofa,19630.55,10,255.5
+ORD0950,2025-03-30,Mar,2025,Jack Young,Bangalore,Electronics,Smartphone,22402.04,4,-138.01
+ORD0951,2025-07-05,Jul,2025,Roberto Church,Pune,Office Supplies,Marker,8871.43,5,2495.95
+ORD0952,2025-08-31,Aug,2025,Kristine Nguyen,Pune,Furniture,Bed,37119.31,8,8391.42
+ORD0953,2025-12-03,Dec,2025,Jennifer Key,Varanasi,Office Supplies,Printer Paper,25760.32,2,414.83
+ORD0954,2025-11-17,Nov,2025,Elizabeth Barnett,Mumbai,Office Supplies,Notebook,6361.06,4,714.26
+ORD0955,2025-09-12,Sep,2025,Jason Williams,Delhi,Clothing,T-Shirt,28850.53,4,-698.23
+ORD0956,2025-12-06,Dec,2025,Paul Cunningham,Varanasi,Clothing,Jeans,20772.02,9,5704.43
+ORD0957,2025-07-02,Jul,2025,James Pham,Delhi,Electronics,Headphones,15812.55,5,2684.15
+ORD0958,2025-07-08,Jul,2025,Allison Chapman,Varanasi,Electronics,Headphones,13270.37,10,3389.91
+ORD0959,2025-07-25,Jul,2025,Jennifer Woodard,Delhi,Furniture,Cabinet,47629.96,2,11132.29
+ORD0960,2025-06-19,Jun,2025,Richard Oconnor,Hyderabad,Electronics,Headphones,19008.18,3,2191.33
+ORD0961,2025-03-24,Mar,2025,Angelica Warner,Varanasi,Clothing,Hoodie,22119.11,3,5941.91
+ORD0962,2025-04-29,Apr,2025,Mary Kline,Pune,Office Supplies,Printer Paper,46756.99,8,13871.11
+ORD0963,2025-08-16,Aug,2025,Courtney Delgado,Delhi,Clothing,Jacket,7323.6,9,671.08
+ORD0964,2025-01-19,Jan,2025,Nicholas Shepherd,Varanasi,Electronics,Keyboard,18346.74,5,1772.2
+ORD0965,2025-11-17,Nov,2025,Nicholas Ayala,Hyderabad,Clothing,Jeans,33316.11,9,5283.16
+ORD0966,2025-02-13,Feb,2025,James Marshall,Lucknow,Office Supplies,Printer Paper,31212.63,4,7703.92
+ORD0967,2025-01-17,Jan,2025,Victoria Henderson,Hyderabad,Furniture,Chair,17926.32,1,3118.89
+ORD0968,2025-07-08,Jul,2025,Gary Norman,Bangalore,Furniture,Sofa,38516.47,2,4330.54
+ORD0969,2025-06-10,Jun,2025,Lauren Young,Hyderabad,Office Supplies,Notebook,22506.66,10,-298.79
+ORD0970,2025-03-04,Mar,2025,Christopher Cooper,Lucknow,Clothing,Jeans,37905.59,7,9222.3
+ORD0971,2025-04-06,Apr,2025,Samantha Mays,Lucknow,Electronics,Headphones,37037.75,5,9660.17
+ORD0972,2025-03-15,Mar,2025,James Barr,Mumbai,Clothing,Hoodie,30141.34,10,8299.48
+ORD0973,2025-07-04,Jul,2025,Leonard Murphy,Hyderabad,Clothing,Shoes,4536.36,8,2.79
+ORD0974,2025-03-30,Mar,2025,Taylor Jones,Mumbai,Clothing,Hoodie,5942.87,3,1225.66
+ORD0975,2025-02-08,Feb,2025,Katrina Terry MD,Delhi,Office Supplies,Stapler,3121.05,5,392.64
+ORD0976,2025-02-11,Feb,2025,Amy Morris,Varanasi,Electronics,Monitor,33312.2,4,3084
+ORD0977,2025-05-26,May,2025,Kelsey Morgan,Bangalore,Electronics,Smartphone,35732.9,6,-1396.34
+ORD0978,2025-02-12,Feb,2025,Susan Garza,Pune,Office Supplies,Marker,6408.29,10,157.71
+ORD0979,2025-01-04,Jan,2025,Laura Allen,Bangalore,Furniture,Bed,19143.99,2,1917.22
+ORD0980,2025-06-19,Jun,2025,Jacob White,Hyderabad,Office Supplies,Pen,32528.28,3,4972.53
+ORD0981,2025-07-21,Jul,2025,Rebecca Clarke,Bangalore,Office Supplies,Marker,16556.39,8,4282.66
+ORD0982,2025-11-16,Nov,2025,Ashley Coleman,Varanasi,Electronics,Smartphone,37601.8,7,9438.41
+ORD0983,2025-05-22,May,2025,Erika Brandt,Varanasi,Clothing,Hoodie,1580.01,8,171.82
+ORD0984,2025-08-05,Aug,2025,Kristopher Rodriguez,Lucknow,Clothing,T-Shirt,48832.81,4,646.9
+ORD0985,2025-03-29,Mar,2025,Chloe Williams,Mumbai,Office Supplies,Stapler,21456.64,3,6240.75
+ORD0986,2025-01-07,Jan,2025,Maria Nguyen,Pune,Furniture,Chair,39424.91,6,5016.62
+ORD0987,2025-07-18,Jul,2025,Gregory Nelson,Bangalore,Clothing,Shoes,25208.11,4,-576.21
+ORD0988,2025-02-02,Feb,2025,Brandon King,Delhi,Electronics,Keyboard,46444.73,5,-586.62
+ORD0989,2025-06-08,Jun,2025,Mr. Brett Thomas MD,Pune,Furniture,Table,10500.84,2,390.38
+ORD0990,2025-12-14,Dec,2025,Tammy Mcknight,Pune,Furniture,Bed,6345.42,2,425.63
+ORD0991,2025-07-11,Jul,2025,Regina Mercado,Delhi,Clothing,Jacket,8417.82,6,835.49
+ORD0992,2025-12-10,Dec,2025,Robert Dixon,Hyderabad,Office Supplies,Printer Paper,7099.37,2,181.27
+ORD0993,2025-10-18,Oct,2025,Amber Pierce,Delhi,Office Supplies,Notebook,36671.27,7,4147.81
+ORD0994,2025-02-05,Feb,2025,Jason Greene,Lucknow,Clothing,Jeans,48205.1,2,11034.14
+ORD0995,2025-09-21,Sep,2025,Carolyn Lynch,Pune,Furniture,Chair,48406.99,2,5859.49
+ORD0996,2025-03-30,Mar,2025,Olivia Ward,Pune,Clothing,T-Shirt,41346.66,6,-1873.73
+ORD0997,2025-10-12,Oct,2025,Eric Martinez,Lucknow,Clothing,Hoodie,31691.49,6,3830.9
+ORD0998,2025-11-09,Nov,2025,Deborah Schwartz,Lucknow,Office Supplies,Marker,19401.94,1,1417.35
+ORD0999,2025-07-18,Jul,2025,Michael Kim,Bangalore,Furniture,Sofa,14926.69,7,4228.13
+ORD1000,2025-06-28,Jun,2025,Kristen Jones,Bangalore,Office Supplies,Marker,12230.48,5,3360.25
