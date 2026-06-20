@@ -19,3 +19,11 @@ Monthly Sales Trends
 ## Skills
 
 Data Cleaing | SQL | Power BI | Dashboarding | Data Analytics
+
+#Retail Sales Analytics Dashboard
+## Dashboard Preview
+![Dashboard Screenshot](https://github.com/anas-data-analyst/Retail_Sales_Analytics_Dashboard/blob/main/Dashboard.png?raw=true)
+## Tools Used
+-Excel
+-SQL
+-Power BI
